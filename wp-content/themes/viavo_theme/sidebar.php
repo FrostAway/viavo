@@ -4,15 +4,15 @@
             <img src="<?= get_template_directory_uri() ?>/assets/images/ps/body/anh-bo-16.png" />
             <h3>VỀ CHÚNG TÔI</h3>
             <p>
-                Tiệp Bùi Quang là doanh nghiệp kinh doanh các sản phẩm hoa quả tươi 100% có chất lượng
+                <?= get_option('about-us') ?>
             </p>
         </div>
         <div class="about-it">
             <h3>THỜI GIAN GIAO HÀNG</h3>
-            <p>Thứ 2 - Chủ Nhật</p>
-            <p>8:00 sáng đến 6:00 tối</p>
+            <p><?= get_option('time-shipping-day') ?></p>
+            <p><?= get_option('time-shipping-hour') ?></p>
             <h3 class="hotline">HOTLINE</h3>
-            <h4 class="num">0983 05 05 91</h4>
+            <h4 class="num"><?= get_option('hotline') ?></h4>
         </div>
     </div>
 
@@ -21,15 +21,15 @@
         <div id="respond">
             <form id="commentform" method="post" action="">
                 <label>Họ tên</label>
-                <input type="text" placeholder="Họ tên" name="name" />
+                <input type="text" placeholder="Họ tên" name="name" required="" />
                 <label>Công việc hiện tại</label>
-                <input type="text" placeholder="Nghề nghiệp" name="job" />
+                <input type="text" placeholder="Nghề nghiệp" name="job" required="" />
                 <label>Đánh giá của khách hàng</label>
-                <textarea name="content" placeholder="Nội dung đánh giá"></textarea>
-                <span class="vote">Xếp loại</span>
+                <textarea name="content" placeholder="Nội dung đánh giá" required=""></textarea>
+                <!--<span class="vote">Xếp loại</span>-->
                 <!--<span class="rating"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>-->
 
-                <div class="comment-form-rating">
+<!--                <div class="comment-form-rating">
                     <label for="rating">Đánh giá của bạn</label>
                     <p class="stars">
                         <span>
@@ -48,10 +48,10 @@
                         <option value="2">Không tệ</option>
                         <option value="1">Rất Xấu</option>
                     </select>
-                </div>
+                </div>-->
 
                 <input type="hidden" name="vote" id="vote" />
-                <input type="submit" name="btn-send-review" value="Gửi đánh giá" />
+                <input style="margin-top: 20px;" type="submit" name="btn-send-review" value="Gửi đánh giá" />
             </form>
         </div>
 
@@ -62,38 +62,26 @@
         </div>
 
         <div class="customer-say">
+            <?php query_posts(array('post_type'=>'mycontact', 'showposts'=>2)); ?>
             <ul>
+                <?php if(have_posts()): while(have_posts()): the_post(); ?>
                 <li>
                     <div class="line1">
                         <img class="avatar" src="<?= get_template_directory_uri() ?>/assets/images/ps/body/khach-hang-17.png" title="khách hàng nói gì" />
                         <div class="name">
-                            <h4>Hà Lạc Luộc</h4>
-                            <i class="des">Nhân viên ngân hàng Techcom Bank</i>
+                            <h4><?= get_post_meta(get_the_ID(), 'contact-name', true) ?></h4>
+                            <i class="des"><?= get_post_meta(get_the_ID(), 'contact-job', true); ?></i>
                         </div>
                     </div>
                     <p class="say-content">
                         <img class="narrow" src="<?= get_template_directory_uri() ?>/assets/images/ps/body/arrow.png" />
                         <i>
-                            "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete" 
+                            <?= get_the_excerpt(); ?>
                         </i>
                     </p>
                 </li>
-                <li>
-                    <div class="line1">
-                        <img class="avatar" src="<?= get_template_directory_uri() ?>/assets/images/ps/body/khach-hang-17.png" title="khách hàng nói gì" />
-                        <div class="name">
-                            <h4>Hà Lạc Luộc</h4>
-                            <i class="des">Nhân viên ngân hàng Techcom Bank</i>
-                        </div>
-                    </div>
-
-                    <p class="say-content">
-                        <img class="narrow" src="<?= get_template_directory_uri() ?>/assets/images/ps/body/arrow.png" />
-                        <i>
-                            "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete" 
-                        </i>
-                    </p>
-                </li>
+                <?php endwhile; wp_reset_postdata(); wp_reset_query(); ?>
+            <?php endif; ?>
             </ul>
         </div>
     </div>

@@ -60,6 +60,7 @@
     background: @background;
     .border-radius(@radius);
     border: none;
+    &:hover{background: #00cc33;}
 }
 .cart{
     .amount{
@@ -87,7 +88,6 @@ h2{
 
 .woocommerce-breadcrumb{
     padding: 10px; .border-radius(3px);
-    border: 1px solid #00ccff;
     margin: 10px 0; font-size: 16px;
 }
 .woocommerce-result-count{
@@ -123,7 +123,6 @@ form.woocommerce-ordering{
         .border-radius(100px);
     }
     .images{
-
         width: 360px; float: left; margin-right: 50px;
         .woocommerce-main-image{
             width: 360px; height: 360px;
@@ -135,9 +134,8 @@ form.woocommerce-ordering{
         }
         .thumbnails{
             width: 360px;
-
             img{
-                width: 25%;
+                width: 25%; height: 100px;
                 .sizing-border;
                 border: 1px solid #cccccc;
             }

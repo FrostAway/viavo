@@ -61,15 +61,14 @@ get_header( 'shop' ); ?>
                                                     <div class="info">
                                                         <a href="<?php the_permalink() ?>"><h3><?php the_title() ?></h3></a>
                                                         <i>Mã hàng</i>
-                                                        
-                                                        <div class="code"></div>
+                                                        <div class="code"><?= get_sku(); ?></div>
                                                         <i>Trạng thái</i>
-                                                        <div class="status"></div>
+                                                        <div class="status"><?= get_status(); ?></div>
                                                         <i>Xuất xứ</i>
-                                                        <div class="origin">Đà lạt, Lâm đồng</div>
+                                                        <div class="origin"><?= get_post_meta(get_the_ID(), 'xuat-xu', true) ?></div>
                                                         <span>Đơn giá</span>
                                                         <!--<div class="price">40.000 VNĐ/Kg</div>-->
-                                                        <?php // woocommerce_template_loop_price(); ?>
+                                                        <?php woocommerce_template_loop_price(); ?>
                                                         <a href="<?php the_permalink() ?>" class="more">Xem thêm</a>
                                                     </div>
                                                 </div>
@@ -92,6 +91,8 @@ get_header( 'shop' ); ?>
 			<?php wc_get_template( 'loop/no-products-found.php' ); ?>
 
 		<?php endif; ?>
+                        
+                        <?php // woocommerce_pagination(); ?>
 
 	<?php
 		/**

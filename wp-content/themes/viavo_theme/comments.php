@@ -44,7 +44,7 @@
 
 <div id="respond">
 
-	<h2><?php comment_form_title( 'Leave a Reply', 'Leave a Reply to %s' ); ?></h2>
+	<h2><?php comment_form_title( 'Bình luận', 'Leave a Reply to %s' ); ?></h2>
 
 	<div class="cancel-comment-reply">
 		<?php cancel_comment_reply_link(); ?>
@@ -64,12 +64,12 @@
 
 			<div>
 				<input type="text" name="author" id="author" value="<?php echo esc_attr($comment_author); ?>" size="22" tabindex="1" <?php if ($req) echo "aria-required='true'"; ?> />
-				<label for="author">Name <?php if ($req) echo "(required)"; ?></label>
+				<label for="author">Họ tên <?php if ($req) echo "(required)"; ?></label>
 			</div>
 
 			<div>
 				<input type="text" name="email" id="email" value="<?php echo esc_attr($comment_author_email); ?>" size="22" tabindex="2" <?php if ($req) echo "aria-required='true'"; ?> />
-				<label for="email">Mail (will not be published) <?php if ($req) echo "(required)"; ?></label>
+				<label for="email">Email (will not be published) <?php if ($req) echo "(required)"; ?></label>
 			</div>
 
 			<div>
@@ -86,7 +86,7 @@
 		</div>
 
 		<div>
-			<input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+			<input name="submit" type="submit" id="submit" tabindex="5" value="Gửi bình luận" />
 			<?php comment_id_fields(); ?>
 		</div>
 		

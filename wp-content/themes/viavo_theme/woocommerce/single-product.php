@@ -29,6 +29,11 @@ get_header( 'shop' ); ?>
 	?>
 
 		<?php while ( have_posts() ) : the_post(); ?>
+        <script>
+            jQuery(document).ready(function(){
+               jQuery('#main-menu a[href="<?php echo get_page_link(woocommerce_get_page_id('shop')) ?>"]').css('color', '#acbd0f'); 
+            });
+        </script>
 
 			<?php wc_get_template_part( 'content', 'single-product' ); ?>
 

@@ -13,7 +13,7 @@
 		      if (function_exists('is_tag') && is_tag()) {
 		         single_tag_title(); echo '&quot; - '; }
 		      elseif (is_archive()) {
-		         wp_title(''); echo ''; }
+		         wp_title(''); echo ' - '; }
 		      elseif (is_search()) {
 		         echo 'Search for &quot;'.wp_specialchars($s).'&quot; - '; }
 		      elseif (!(is_404()) && (is_single()) || (is_page())) {
@@ -45,9 +45,18 @@
 </head>
 
 <body <?php body_class(); ?>>
-	
+    
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&appId=1418616455105788&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 	<div id="header">
-            <div id="logo"><img src="<?= get_template_directory_uri() ?>/assets/images/ps/header/lgo-03.png" alt="Logo" title="viavo" /></div>
+            <div id="logo"><a href="<?= home_url() ?>"><img src="<?= get_option('viavo-logo') ?>" alt="Logo" title="viavo" /></a></div>
 
             <div class="header-right">
                 <div class="header-item">
@@ -63,10 +72,10 @@
                 <div class="header-item">
                     <img class="icon" src="<?= get_template_directory_uri() ?>/assets/images/ps/header/icon-10.png" title="hotline" />
                     <a href="#"><h3>HOTLINE</h3></a>
-                    <b>0983 05 05 91</b>
+                    <b><?= get_option('hotline') ?></b>
                 </div>
             </div>
-            <div class="fb-icon"><img src="<?= get_template_directory_uri() ?>/assets/images/ps/header/icon-facebook-27.png" /></div>
+            <div class="fb-icon"><a href="http://facebook.com/bohaitiep"><img src="<?= get_template_directory_uri() ?>/assets/images/ps/header/icon-facebook-27.png" /></a></div>
             
             <div class="separator"></div>
             
@@ -87,20 +96,4 @@
         
         <!-- end header -->
 
-        <div id="slide">
-            <div class="cycle-slideshow"
-                 data-cycle-fx="scrollHorz"
-                 data-cycle-pause-on-hover="true"
-                 data-cycle-speed="300"
-                 data-cycle-timeout=6000
-                 >
-                <?php
-                   query_posts(array('post_type'=>'myslide'));
-                ?>
-                <?php if(have_posts()):while(have_posts()):the_post(); ?>
-                <?php the_post_thumbnail(); ?>
-                <?php endwhile; wp_reset_postdata(); ?>
-                
-                <?php endif ?>
-            </div>
-        </div>
+        <?php include_once 'includes/slide.php'; ?>

@@ -51,10 +51,10 @@ query_posts(array(
                 </div>
                 <div class="ft-col">
                     <h3>Website</h3>
-                    <div class="f-item"><a href="#">Về chúng tôi</a></div>
-                    <div class="f-item"><a href="#">Sản phẩm</a></div>
-                    <div class="f-item"><a href="#">Bài viết</a></div>
-                    <div class="f-item"><a href="#">Liên hệ</a></div>
+                    <div class="f-item"><a href="<?= get_page_link(17) ?>">Về chúng tôi</a></div>
+                    <div class="f-item"><a href="<?= get_page_link(woocommerce_get_page_id('shop')) ?>">Sản phẩm</a></div>
+                    <div class="f-item"><a href="<?= get_category_link(3) ?>">Bài viết</a></div>
+                    <div class="f-item"><a href="<?= get_page_link(19) ?>">Liên hệ</a></div>
                 </div>
                 
                 <!--script google map-->
@@ -90,7 +90,7 @@ query_posts(array(
                 <div class="ft-col">
                     <h3>Google Map</h3>
                     <div id="google-map">
-                        <img src="<?= get_template_directory_uri() ?>/assets/images/ps/footer/google-map-26.png" />
+                        
                     </div>
                 </div>
             </div>
