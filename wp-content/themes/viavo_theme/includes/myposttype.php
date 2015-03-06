@@ -1,6 +1,6 @@
 <?php
 
-function register_my_post_type(){
+function register_my_post_type() {
     register_post_type('mypartner', array(
         'labels' => array(
             'name' => 'Đối tác',
@@ -79,7 +79,7 @@ function register_my_post_type(){
         'menu_position' => 6,
         'menu_icon' => 'dashicons-images-alt2',
     ));
-    
+
     register_post_type('mybanner', array(
         'labels' => array(
             'name' => 'Banner',
@@ -100,6 +100,80 @@ function register_my_post_type(){
         'menu_icon' => 'dashicons-images-alt2',
     ));
 }
+
 add_action('init', 'register_my_post_type');
 
+add_action('add_meta_boxes', 'add_mybanner_fields');
 
+function add_mybanner_fields() {
+    add_meta_box('show-hot-banner', 'Banner hiện thị trang chủ', 'show_mybanner_box', 'mybanner', 'normal', 'high', array());
+}
+
+function show_mybanner_box($post) {
+    $ctbanner = get_post_custom($post->ID);
+    ?>
+    <table id="list-table">
+        <tr>
+            <td>Thứ tự hiển thị trang chủ: </td>
+            <td>
+                <?php
+                $order = 1000;
+                if (isset($ctbanner['show-banner'][0])) {
+                    $order = $ctbanner['show-banner'][0];
+                }
+                ?>
+                <input name="show-banner" value="<?= $order ?>" type="text" size="78" />
+            </td>
+        </tr>
+    </table>
+    <?php
+}
+
+add_action('save_post', 'update_show_banner');
+
+function update_show_banner($post_id) {
+    if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) {
+        return;
+    }
+    if (!current_user_can('edit_post', $post_id)) {
+        return;
+    }
+    if (isset($_REQUEST['post_type']) && $_REQUEST['post_type'] == 'banner') {
+        update_post_meta($post_id, 'show-banner', $_POST['show-banner']);
+    } else {
+        delete_post_meta($post_id, 'show-banner');
+    }
+    if(isset($_POST['show-banner'])){
+        update_post_meta($post_id, 'show-banner', $_POST['show-banner']);
+    }
+}
+
+
+add_filter('manage_mybanner_posts_columns', 'banner_image_column');
+add_filter('manage_myslide_posts_columns', 'banner_image_column');
+add_filter('manage_mypartner_posts_columns', 'banner_image_column');
+function banner_image_column($columns){
+    $columns['banner_image'] = 'Banner Image';
+    return $columns;
+}
+
+function banner_get_image($post_ID){
+    $banner_image_id = get_post_thumbnail_id($post_ID);
+    if($banner_image_id){
+        $banner_image = wp_get_attachment_image_src($banner_image_id);
+        return $banner_image[0];
+    }
+}
+add_action('manage_mybanner_posts_custom_column', 'banner_image_content', 10, 2);
+add_action('manage_myslide_posts_custom_column', 'banner_image_content', 10, 2);
+add_action('manage_mypartner_posts_custom_column', 'banner_image_content', 10, 2);
+function banner_image_content($column_name, $post_ID){
+    if($column_name == 'banner_image'){
+        $banner_image = banner_get_image($post_ID);
+        if($banner_image){
+        echo '<img src="'.$banner_image.'" />';
+        }else{
+            echo 'None';
+        }
+    }
+}

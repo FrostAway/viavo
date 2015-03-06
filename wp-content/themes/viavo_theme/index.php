@@ -7,7 +7,10 @@
                 
                 <?php query_posts(array(
                     'post_type' => 'mybanner',
-                    'showposts' => 2
+                    'showposts' => 2,
+                    'meta_key' => 'show-banner',
+                    'orderby' => 'meta_value_num',
+                    'order' => 'asc'
                 )); ?>
                 
                 <div class="featured">
@@ -28,7 +31,11 @@
                 <?php 
                 query_posts(array(
                     'post_type' => 'product',
-                    'posts_per_page' => get_option('product-num')
+                    'posts_per_page' => get_option('product-num'),
+                    'meta_key' => '_featured',
+                    'meta_value' => 'yes',
+                    'orderby' => 'title',
+                    'order' => 'asc'
                 ));
                 ?>
                 <div class="products">
