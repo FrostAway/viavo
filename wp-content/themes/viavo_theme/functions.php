@@ -116,6 +116,8 @@ function decleare_param_option() {
     register_setting('home_page_group', 'viavo-address');
     register_setting('home_page_group', 'viavo-phone');
     register_setting('home_page_group', 'banner-page');
+    
+    register_setting('home_page_group', 'test-array');
 }
 
 function home_page_setting() {

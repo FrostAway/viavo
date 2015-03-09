@@ -62,7 +62,7 @@
                 </p>
                 <p>
                 <label></label>
-                <textarea name="contact-content" placeholder="Nội dung đánh giá" required=""></textarea>
+                <textarea name="contact-content" placeholder="Nội dung" required=""></textarea>
                 </p>
                 <input type="hidden" name="vote" id="vote" />
                 <input style="margin-top: 20px;" type="submit" name="btn-send-contact" value="Gửi Liên hệ" />

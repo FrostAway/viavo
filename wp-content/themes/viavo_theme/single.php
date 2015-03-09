@@ -13,7 +13,9 @@
                     <h3 class="box-title"><?php the_title(); ?></h3>
 
 			<div class="entry">
-				
+				<div class="post-info">
+                                    <span class="author">Đăng bởi: <strong><?php the_author(); ?></strong></span> || Thời gian: <span><?php the_time(); echo ', '; the_date(); ?></span>
+                        </div>
 				<?php the_content() ?>
 
 				<?php wp_link_pages(array('before' => 'Pages: ', 'next_or_number' => 'number')); ?>
@@ -22,7 +24,7 @@
 
 			</div>
 			
-			<?php edit_post_link('Edit this entry','','.'); ?>
+			<?php edit_post_link('Sửa mục này'); ?>
 		</div>
 
         <div id="respond">

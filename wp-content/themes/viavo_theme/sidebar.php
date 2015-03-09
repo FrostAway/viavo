@@ -18,6 +18,8 @@
 
     <div class="reviews" id="review_form">
         <h3>PHẢN HỒI KHÁCH HÀNG</h3>
+        
+        <?php if(!is_page(19)){ ?>
         <div id="respond">
             <form id="commentform" method="post" action="">
                 <label>Họ tên</label>
@@ -54,13 +56,16 @@
                 <input style="margin-top: 20px;" type="submit" name="btn-send-review" value="Gửi đánh giá" />
             </form>
         </div>
+        
+        <?php } ?>
 
         <div class="separator">
             <img src="<?= get_template_directory_uri() ?>/assets/images/ps/body/chiec-la-16.png" title="chiếc lá" />
             <img src="<?= get_template_directory_uri() ?>/assets/images/ps/body/chiec-la-16.png" title="chiếc lá" />
             <img src="<?= get_template_directory_uri() ?>/assets/images/ps/body/chiec-la-16.png" title="chiếc lá" />
         </div>
-
+        
+        
         <div class="customer-say">
             <?php query_posts(array('post_type'=>'mycontact', 'showposts'=>2)); ?>
             <ul>
