@@ -55,6 +55,9 @@ define('NONCE_SALT',       'dK/tXQtQm6<QQaj<-@3JRU<kL0Z-Xwr+{[?smO;Y:gk4)>PU,5rV
 
 /**#@-*/
 
+define('WP_ADMIN_DIR', 'viavo-admin');
+define('ADMIN_COOKIE_PATH', SITECOOKIEPATH.WP_ADMIN_DIR);
+
 /**
  * WordPress Database Table prefix.
  *

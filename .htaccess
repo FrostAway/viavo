@@ -1,4 +1,10 @@
-
+# BEGIN iThemes Security
+	# BEGIN Hide Backend
+			# Rules to hide the dashboard
+			RewriteRule ^(/viavo/)?viavo-admin/?$ /viavo/wp-login.php [QSA,L]
+		
+	# END Hide Backend
+# END iThemes Security
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -7,6 +13,8 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /viavo/index.php [L]
+
+#RewriteRule ^viavo-admin/(.*)$ /wp-admin/$1 [QSA,L]
 </IfModule>
 
 # END WordPress

@@ -1,4 +1,32 @@
 <?php
+
+//rewrite wp-admin
+//
+//add_action('init', 'add_admin_rewrite');
+//function add_admin_rewrite(){
+//    add_rewrite_rule("write/viavo-admin/?", 'wp-admin', 'top');
+//}
+//
+//add_filter('site_url', 'wpadmin_filter', 10, 3);
+//function wpadmin_filter($url, $path, $orig_scheme){
+//    $old = array("/(wp-admin)/");
+//    $admin_dir = WP_ADMIN_DIR;
+//    $new = array($admin_dir);
+//    return preg_replace($old, $new, $url, 1);
+//}
+//add_action('admin_init', 'restrict_wp_admin');
+//function restrict_wp_admin(){
+//    $redirect_to = $_SERVER['REQUEST_URI'];
+//    if(count($_REQUEST) > 0 && array_key_exists('redirect_to', $_REQUEST)){
+//        $redirect_to = $_REQUEST['redirect_to'];
+//        $check_wp_admin = stristr($redirect_to, 'wp-admin');
+//        if($check_wp_admin){
+//            wp_safe_redirect(get_stylesheet_directory_uri().'/404.php');
+//        }
+//    }
+//}
+
+
 // Add RSS links to <head> section
 automatic_feed_links();
 
