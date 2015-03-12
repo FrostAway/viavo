@@ -21,7 +21,7 @@ ul{
     margin: 0;
 }
 
-a{text-decoration: none;}
+a{text-decoration: none; color: #000}
 
 #header{
     a{color: #000;}
@@ -33,7 +33,7 @@ a{text-decoration: none;}
         img{width: 236px; height: 53px;}
     }
     .header-right{
-        float: right;
+        float: right; margin-top: 10px;
         .header-item{
             float: left;
             width: 220px;
@@ -66,9 +66,9 @@ a{text-decoration: none;}
                 i{color: #40b224;}
             }
         }
-            .current-menu-item{
-                a{color: #acbd0f!important;}
-            }
+        .current-menu-item{
+            a{color: #acbd0f!important;}
+        }
     }
     #search-form{
         float: right; width: 235px; position: relative;
@@ -92,6 +92,9 @@ a{text-decoration: none;}
         overflow: hidden;*/
     #banner-page{
         height: 175px;
+    }
+    .cycle-slideshow{
+        img{display: none;}
     }
 }
 button, input[type="submit"], a.more{
@@ -249,9 +252,9 @@ h3.box-title{
     border-left: 1px solid #ccc;
     .item{
         background: #fff;
-        float: left;
+        float: left; position: relative; 
         width: 208.25px;
-        height: 270px;
+        height: 270px; overflow: hidden;
         border-right: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
         .sizing-border;
@@ -265,25 +268,44 @@ h3.box-title{
             }
         }
         .info{
-            padding: 7px 30px;
+            padding: 7px 20px;
+            h3{text-transform: uppercase;}
         }
         .wp-post-image{
             max-width: 177px;
             margin: auto;
         }
-        h3 a{font-weight: normal; margin-top: 15px;}
-        .price{margin: 13px 0; color: #e57676; font-weight: bold; display: block;}
+        .onsale{
+            position: absolute; top: 2px; left: -41px;
+            background: #acbd0f; color: #ff3300; z-index: 200;
+           .rotate(-45deg); font-size: 20px; padding: 5px 40px; color: #ff3300;
+        }
+        h3 a{margin-top: 15px; color: #000; &:hover{color: #40b224;}}
+
+        .price{
+            margin: 5px 0 10px; color: #e57676; font-weight: bold; display: block; font-size: 15px; color: #ff3300; 
+            del{
+                font-size: 12px; color: #000;
+            }
+            ins{
+                text-decoration: none;
+            }
+        }
         .more{
-            display: block; padding: 4px;
+            position: absolute; left: 20px; bottom: 10px;
+            padding: 4px 15px; display: inline-block;
             background: #40b224; color: #fff; text-align: center;
             .border-radius(3px); &:hover{background: #669900;}
+        }
+        .status{
+            position: absolute; right: 20px; bottom: 10px; color: #40b224;
         }
     }
     .item-cat{
         background: #fff;
         float: left;
         width: 416px;
-        height: 287px;
+        height: 287px; position: relative;
         border-right: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
         .sizing-border;
@@ -297,13 +319,29 @@ h3.box-title{
             float: left; width: 245px; height: 100%;
             .image{
                 max-width: 100%; max-height: 100%;
+                min-width: 200px; min-height: 200px;
                 position: absolute; top: 50%; left: 50%;
                 .transform(translate(-50%, -50%));
             }
         }
+        .onsale{
+            position: absolute; top: 1px; left: -35px;
+           background: #acbd0f; color: #ff3300; z-index: 200;
+           .rotate(-45deg); font-size: 20px; padding: 5px 40px; color: #ff3300;
+        }
+        overflow: hidden;
         h3{font-weight: normal; margin-top: 10px; text-transform: uppercase; display: block;}
         i, span{margin-top: 8px; display: block;}
-        .price{margin: 0px 0 9px; color: #e57676; font-weight: bold;}
+        .price{
+            margin: 5px 0 9px; color: #e57676; font-weight: bold; display: block; font-size: 15px; color: #ff3300; 
+            del{
+                font-size: 12px; color: #000;
+            }
+            ins{
+                text-decoration: none;
+            }
+            .amount{margin: 0}
+        }
         .more{
             display: block; padding: 4px;
             background: #40b224; color: #fff; text-align: center;
@@ -312,13 +350,13 @@ h3.box-title{
     }
     .clearfix;
 }
-.search .products .item{width: 200.75px;}
+.search .products .item{}
 
 .news{
-    padding: 0px 20px 20px; background: #fff;
+    background: #fff;
     ul{
         li{
-            padding-bottom: 25px;
+            padding: 0 20px 25px 20px; width: 50%;
             float: left; .sizing-border;
             .thumbnail{
                 width: 150px; margin: 0px 15px 0px 0; float: left;
@@ -326,19 +364,14 @@ h3.box-title{
             }
             .content{
                 h4{text-transform: uppercase; font-size: 13px;}
-                width: 215px; float: right; .sizing-border; 
+                width: 210px; float: right; .sizing-border; 
                 p{text-align: justify; margin: 8px 0; font-style: italic;}
-            }
-            &:nth-child(2n){width: 48%;}
-            &:nth-child(2n-1){
-                width: 50%;
-                border-right: 1px solid #ccc; margin-right: 15px; 
-                .content{
-                    padding-right: 10px;
-                }
             }
             .more{&:hover{background: #669900;}
                   display: inline-block; padding: 3px 10px; background: #40b224; color: #fff; .border-radius(4px);
+            }
+            &:nth-child(2n-1){
+                border-right: 1px solid #ccc;
             }
         }
         .clearfix;
@@ -378,6 +411,7 @@ h3.box-title{
     }
     .cycle-slideshow{
         width: 1090px; margin: auto;
+        img{display: none;}
     }
     .cycle-carousel-wrap{
         img{
@@ -407,6 +441,25 @@ h3.box-title{
             padding-bottom: 10px; border-bottom: 1px solid #ccc;
             margin-bottom: 30px;
         }
+    }
+}
+
+[id*="product"]{
+    position: relative;
+    .onsale{
+        position: absolute;
+        top: 20px; left: 20px;
+        padding: 13px 7px;
+    }
+    .price{
+        color: #e57676; font-weight: bold; display: block; font-size: 23px; color: #ff3300; 
+        del{
+            font-size: 16px; color: #000;
+        }
+        ins{
+            text-decoration: none;
+        }
+        .amount{margin: 0}
     }
 }
 
@@ -473,8 +526,8 @@ ol.commentlist{
         li{
             display: inline; 
             a, span{
-               padding: 5px 10px;
-               border: 1px solid #ccc;
+                padding: 5px 10px;
+                border: 1px solid #ccc;
             }
             .current{background: #ccc;}
             .next, .prev{

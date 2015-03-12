@@ -76,15 +76,37 @@ function get_status() {
     }
 }
 
+function get_sale() {
+    global $post, $product;
+    if ($product->is_on_sale()) :
+        ?>
+
+        <?php echo apply_filters('woocommerce_sale_flash', '<span class="onsale">' . __('Sale!', 'woocommerce') . '</span>', $post, $product); ?>
+        <?php
+    endif;
+}
+
+function get_sale_out($post_id, $echo=null) {
+    if (get_post_meta($post_id, '_sale_price', true) != '') {
+        if (get_post_meta($post_id, '_regular_price', true) != get_post_meta($post_id, '_sale_price', true)) {
+            if($echo == true){
+                echo '<div class="onsale">' . __('Sale!', 'woocommerce') . '</div>';
+            }else{
+                return '<div class="onsale">' . __('Sale!', 'woocommerce') . '</div>';
+            }
+        }
+    }
+}
+
 //pagination
 add_action('pre_get_posts', 'my_post_query_function');
 
 function my_post_query_function($query) {
-    if(!is_admin() && $query->is_main_query()) {
-        if(is_archive()) {
+    if (!is_admin() && $query->is_main_query()) {
+        if (is_archive()) {
             $query->set('posts_per_page', get_option('news-num'));
         }
-        if(is_post_type_archive('product')){
+        if (is_post_type_archive('product')) {
             $query->set('posts_per_page', get_option('product-num'));
         }
     }
@@ -116,7 +138,7 @@ function decleare_param_option() {
     register_setting('home_page_group', 'viavo-address');
     register_setting('home_page_group', 'viavo-phone');
     register_setting('home_page_group', 'banner-page');
-    
+
     register_setting('home_page_group', 'test-array');
 }
 
@@ -124,7 +146,7 @@ function home_page_setting() {
     wp_enqueue_media();
     ?>
     <div class="wrap">
-    <?php screen_icon(); ?>
+            <?php screen_icon(); ?>
         <form id="viavo_theme_setting" method="post" action="options.php">
     <?php settings_fields('home_page_group') ?>
             <table>

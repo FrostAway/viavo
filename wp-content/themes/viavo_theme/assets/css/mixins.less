@@ -7,6 +7,12 @@
         clear: both;
     }
 }
+.rotate(@dg){
+    transform: rotate(@dg);
+    -moz-transform: rotate(@dg);
+    -webkit-transform: rotate(@dg);
+    -o-transform: rotate(@dg);
+}
 .sizing-border{
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -160,9 +166,6 @@ form.woocommerce-ordering{
             }
             ins{
                 text-decoration: none;
-                color: #ff0000; font-size: 23px;
-            }
-            .amount{
                 color: #ff0000; font-size: 23px;
             }
             margin: 20px 0;

@@ -16,6 +16,7 @@
                 <div class="featured">
                     <?php if(have_posts()):while(have_posts()):the_post(); ?>
                     <div id="post-<?php the_ID() ?>" class="ft-item <?php post_class() ?>">
+                        
                         <a href="<?php the_permalink() ?>"><?php the_post_thumbnail(); ?></a>
                         <div class="it-text">
                             <h3><?php the_title(); ?></h3>
@@ -41,14 +42,16 @@
                 <div class="products">
                     <?php if(have_posts()):while(have_posts()):the_post(); ?>
                         <div class="item">
+                            <?php get_sale_out(get_the_ID(), true); ?>
                             <div class="it-image">
-                                <a href="<?php the_permalink() ?>"><?php the_post_thumbnail(); ?></a>
+                                <a href="<?php the_permalink() ?>"><?php woocommerce_template_loop_product_thumbnail(); ?></a>
                             </div>
                             <div class="info">
                                 <h3><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h3>
                                 <?php woocommerce_template_loop_price(); ?>
                                 <a href="<?php the_permalink() ?>" class="more">Xem thêm</a>
                             </div>
+                            <div class="status"><span class="fa fa-shopping-cart"> </span> <?= get_status(); ?></div>
                         </div>
                     <?php endwhile; wp_reset_postdata(); wp_reset_query() ?>
                     <?php endif; ?>
@@ -69,9 +72,9 @@
                                     <p>
                                         <?php
                                         if(get_the_excerpt() == ''){
-                                            echo wp_trim_words(get_the_content(), 40, '.....');
+                                            echo wp_trim_words(get_the_content(), 18, '.....');
                                         }else{
-                                            echo wp_trim_words(get_the_excerpt(), 40, '.....');
+                                            echo wp_trim_words(get_the_excerpt(), 18, '.....');
                                         }
                                         ?>
                                     </p>

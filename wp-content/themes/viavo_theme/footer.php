@@ -107,6 +107,7 @@ query_posts(array(
 <script src="<?= get_template_directory_uri() ?>/assets/js/jquery.cycle2.min.js"></script>
 <script src="<?= get_template_directory_uri() ?>/assets/js/jquery.cycle2.carousel.min.js"></script>
 <script src="<?= get_template_directory_uri() ?>/assets/js/rating.js"></script>
+<script src="<?= get_template_directory_uri() ?>/assets/js/load_image.js"></script>
 
 	<?php wp_footer(); ?>
 	

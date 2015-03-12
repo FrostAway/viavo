@@ -55,6 +55,7 @@ get_header( 'shop' ); ?>
 				<?php while ( have_posts() ) : the_post(); ?>
                         
                                                 <div class="item-cat">
+                                                        <?php get_sale(); ?>
                                                     <div class="thumbnail">
                                                         <?php the_post_thumbnail('', array('class'=>'image')) ?>
                                                     </div>

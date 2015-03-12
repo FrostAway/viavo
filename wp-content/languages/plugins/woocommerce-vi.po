@@ -30,7 +30,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-02-20 16:19:14+00:00\n"
-"PO-Revision-Date: 2015-02-23 08:41+0000\n"
+"PO-Revision-Date: 2015-03-10 23:35+0700\n"
 "Last-Translator: Nguyễn Đình Quân\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/woocommerce/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #: i18n/countries.php:18
 msgid "Afghanistan"
@@ -3741,9 +3741,7 @@ msgid "Ucayali"
 msgstr "Ucayali"
 
 #: i18n/states/TH.php:13
-msgid ""
-"Amnat Charoen "
-"(&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
+msgid "Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
 msgstr "Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;&#3597;)"
 
 #: i18n/states/TH.php:14
@@ -3751,15 +3749,11 @@ msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
 msgstr "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
 
 #: i18n/states/TH.php:15
-msgid ""
-"Ayutthaya "
-"(&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgid "Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
 msgstr "Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
 
 #: i18n/states/TH.php:16
-msgid ""
-"Bangkok "
-"(&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;&#3634;&#3609;&#3588;&#3619;)"
+msgid "Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;&#3634;&#3609;&#3588;&#3619;)"
 msgstr "Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;&#3634;&#3609;&#3588;&#3619;)"
 
 #: i18n/states/TH.php:17
@@ -3767,14 +3761,11 @@ msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
 msgstr "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
 
 #: i18n/states/TH.php:18
-msgid ""
-"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgid "Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
 msgstr "Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
 
 #: i18n/states/TH.php:19
-msgid ""
-"Chachoengsao "
-"(&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;&#3634;)"
+msgid "Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;&#3634;)"
 msgstr "Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;&#3634;)"
 
 #: i18n/states/TH.php:20
@@ -3790,8 +3781,7 @@ msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:23
-msgid ""
-"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
+msgid "Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
 msgstr "Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
 
 #: i18n/states/TH.php:24
@@ -3807,20 +3797,15 @@ msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
 msgstr "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
 
 #: i18n/states/TH.php:27
-msgid ""
-"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgid "Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
 msgstr "Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
 
 #: i18n/states/TH.php:28
-msgid ""
-"Kamphaeng Phet "
-"(&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
+msgid "Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
 msgstr "Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
 
 #: i18n/states/TH.php:29
-msgid ""
-"Kanchanaburi "
-"(&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;)"
+msgid "Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:30
@@ -3848,15 +3833,11 @@ msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:36
-msgid ""
-"Mae Hong Son "
-"(&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;&#3609;)"
+msgid "Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;&#3609;)"
 msgstr "Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;&#3609;)"
 
 #: i18n/states/TH.php:37
-msgid ""
-"Maha Sarakham "
-"(&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;&#3617;)"
+msgid "Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;&#3617;)"
 msgstr "Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;&#3617;)"
 
 #: i18n/states/TH.php:38
@@ -3876,21 +3857,15 @@ msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
 msgstr "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
 
 #: i18n/states/TH.php:42
-msgid ""
-"Nakhon Ratchasima "
-"(&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
+msgid "Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
 msgstr "Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;&#3634;)"
 
 #: i18n/states/TH.php:43
-msgid ""
-"Nakhon Sawan "
-"(&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
+msgid "Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
 msgstr "Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;&#3660;)"
 
 #: i18n/states/TH.php:44
-msgid ""
-"Nakhon Si Thammarat "
-"(&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgid "Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
 msgstr "Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;&#3617;&#3619;&#3634;&#3594;)"
 
 #: i18n/states/TH.php:45
@@ -3902,9 +3877,7 @@ msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
 msgstr "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
 
 #: i18n/states/TH.php:47
-msgid ""
-"Nong Bua Lam Phu "
-"(&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
+msgid "Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
 msgstr "Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;&#3616;&#3641;)"
 
 #: i18n/states/TH.php:48
@@ -3916,8 +3889,7 @@ msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:50
-msgid ""
-"Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:51
@@ -3937,8 +3909,7 @@ msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
 msgstr "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
 
 #: i18n/states/TH.php:55
-msgid ""
-"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgid "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
 msgstr "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
 
 #: i18n/states/TH.php:56
@@ -3962,15 +3933,11 @@ msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
 msgstr "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
 
 #: i18n/states/TH.php:61
-msgid ""
-"Prachin Buri "
-"(&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
+msgid "Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:62
-msgid ""
-"Prachuap Khiri Khan "
-"(&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgid "Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
 msgstr "Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
 
 #: i18n/states/TH.php:63
@@ -3998,21 +3965,15 @@ msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
 msgstr "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
 
 #: i18n/states/TH.php:69
-msgid ""
-"Samut Prakan "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
+msgid "Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
 msgstr "Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;&#3634;&#3619;)"
 
 #: i18n/states/TH.php:70
-msgid ""
-"Samut Sakhon "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
+msgid "Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
 msgstr "Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;&#3619;)"
 
 #: i18n/states/TH.php:71
-msgid ""
-"Samut Songkhram "
-"(&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
+msgid "Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
 msgstr "Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;&#3634;&#3617;)"
 
 #: i18n/states/TH.php:72
@@ -4024,8 +3985,7 @@ msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
 msgstr "Satun (&#3626;&#3605;&#3641;&#3621;)"
 
 #: i18n/states/TH.php:74
-msgid ""
-"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgid "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:75
@@ -4041,15 +4001,11 @@ msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
 msgstr "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
 
 #: i18n/states/TH.php:78
-msgid ""
-"Suphan Buri "
-"(&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
+msgid "Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
 msgstr "Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:79
-msgid ""
-"Surat Thani "
-"(&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
+msgid "Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:80
@@ -4069,9 +4025,7 @@ msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
 msgstr "Trat (&#3605;&#3619;&#3634;&#3604;)"
 
 #: i18n/states/TH.php:84
-msgid ""
-"Ubon Ratchathani "
-"(&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
+msgid "Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:85
@@ -4079,14 +4033,11 @@ msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:86
-msgid ""
-"Uthai Thani "
-"(&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgid "Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
 msgstr "Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:87
-msgid ""
-"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgid "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
 msgstr "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
 
 #: i18n/states/TH.php:88
@@ -4689,14 +4640,11 @@ msgstr "North West"
 msgid "Western Cape"
 msgstr "Western Cape"
 
-#: includes/abstracts/abstract-wc-integration.php:29
-#: includes/abstracts/abstract-wc-settings-api.php:77
-#: includes/class-wc-install.php:644 includes/emails/class-wc-email.php:702
+#: includes/abstracts/abstract-wc-integration.php:29 includes/abstracts/abstract-wc-settings-api.php:77 includes/class-wc-install.php:644 includes/emails/class-wc-email.php:702
 msgid "Settings"
 msgstr "Thiết lập"
 
-#: includes/abstracts/abstract-wc-order.php:235
-#: includes/abstracts/abstract-wc-order.php:291
+#: includes/abstracts/abstract-wc-order.php:235 includes/abstracts/abstract-wc-order.php:291
 msgid "Backordered"
 msgstr "Đặt hàng trước"
 
@@ -4704,11 +4652,7 @@ msgstr "Đặt hàng trước"
 msgid "&nbsp;<small>%svia %s</small>"
 msgstr "&nbsp;<small>%squa %s</small>"
 
-#: includes/abstracts/abstract-wc-order.php:1656
-#: includes/abstracts/abstract-wc-product.php:966
-#: includes/abstracts/abstract-wc-product.php:972
-#: includes/class-wc-cart.php:1527 includes/class-wc-product-variable.php:322
-#: includes/class-wc-product-variation.php:318
+#: includes/abstracts/abstract-wc-order.php:1656 includes/abstracts/abstract-wc-product.php:966 includes/abstracts/abstract-wc-product.php:972 includes/class-wc-cart.php:1527 includes/class-wc-product-variable.php:322 includes/class-wc-product-variation.php:318
 msgid "Free!"
 msgstr "Miễn phí"
 
@@ -4724,9 +4668,7 @@ msgstr "Giảm giá:"
 msgid "Shipping:"
 msgstr "Giao nhận:"
 
-#: includes/abstracts/abstract-wc-order.php:1786
-#: includes/shortcodes/class-wc-shortcode-checkout.php:144
-#: templates/checkout/thankyou.php:53
+#: includes/abstracts/abstract-wc-order.php:1786 includes/shortcodes/class-wc-shortcode-checkout.php:144 templates/checkout/thankyou.php:53
 msgid "Payment Method:"
 msgstr "Phương thức thanh toán:"
 
@@ -4734,9 +4676,7 @@ msgstr "Phương thức thanh toán:"
 msgid "Order Total:"
 msgstr "Tổng cộng đơn hàng:"
 
-#: includes/abstracts/abstract-wc-order.php:1812
-#: includes/wc-cart-functions.php:248 templates/order/order-details.php:126
-#: templates/order/order-details.php:130
+#: includes/abstracts/abstract-wc-order.php:1812 includes/wc-cart-functions.php:248 templates/order/order-details.php:126 templates/order/order-details.php:130
 msgid "(Includes %s)"
 msgstr "(bao gồm %s)"
 
@@ -4752,8 +4692,7 @@ msgstr "Trạng thái đơn hàng đã được chuyển từ %s sang %s."
 msgid "Item's #%s variation #%s stock reduced from %s to %s."
 msgstr "Mục #%s biến thể #%s trong kho giảm từ %s tới %s."
 
-#: includes/abstracts/abstract-wc-order.php:2336
-#: includes/class-wc-ajax.php:1200 includes/class-wc-ajax.php:1201
+#: includes/abstracts/abstract-wc-order.php:2336 includes/class-wc-ajax.php:1200 includes/class-wc-ajax.php:1201
 msgid "Item #%s stock reduced from %s to %s."
 msgstr "Số lượng sản phẩm #%s đã được giảm từ %s xuống %s."
 
@@ -4761,8 +4700,7 @@ msgstr "Số lượng sản phẩm #%s đã được giảm từ %s xuống %s."
 msgid "Order item stock reduced successfully."
 msgstr "Số lượng sản phẩm trong đơn hàng đã được điều chỉnh giảm thành công."
 
-#: includes/abstracts/abstract-wc-payment-gateway.php:302
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:296
+#: includes/abstracts/abstract-wc-payment-gateway.php:302 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:296
 msgid "Card Number"
 msgstr "Số thẻ"
 
@@ -4782,9 +4720,7 @@ msgstr "Số thẻ"
 msgid "CVC"
 msgstr "CVC"
 
-#: includes/abstracts/abstract-wc-product.php:533
-#: includes/class-wc-product-simple.php:50
-#: includes/class-wc-product-variation.php:198
+#: includes/abstracts/abstract-wc-product.php:533 includes/class-wc-product-simple.php:50 includes/class-wc-product-variation.php:198
 msgid "Add to cart"
 msgstr "Thêm vào giỏ"
 
@@ -4792,51 +4728,36 @@ msgstr "Thêm vào giỏ"
 msgid "Read more"
 msgstr "Đọc tiếp"
 
-#: includes/abstracts/abstract-wc-product.php:623
-#: includes/abstracts/abstract-wc-product.php:634
-#: includes/abstracts/abstract-wc-product.php:656
-#: includes/class-wc-ajax.php:659 includes/class-wc-product-variation.php:530
-#: includes/class-wc-product-variation.php:540
+#: includes/abstracts/abstract-wc-product.php:623 includes/abstracts/abstract-wc-product.php:634 includes/abstracts/abstract-wc-product.php:656 includes/class-wc-ajax.php:659 includes/class-wc-product-variation.php:530 includes/class-wc-product-variation.php:540
 #: includes/class-wc-product-variation.php:556
 msgid "In stock"
 msgstr "Còn hàng"
 
-#: includes/abstracts/abstract-wc-product.php:628
-#: includes/class-wc-product-variation.php:534
+#: includes/abstracts/abstract-wc-product.php:628 includes/class-wc-product-variation.php:534
 msgid "Only %s left in stock"
 msgstr "Chỉ còn lại %s sản phẩm"
 
-#: includes/abstracts/abstract-wc-product.php:631
-#: includes/abstracts/abstract-wc-product.php:642
-#: includes/class-wc-product-variation.php:537
-#: includes/class-wc-product-variation.php:547
+#: includes/abstracts/abstract-wc-product.php:631 includes/abstracts/abstract-wc-product.php:642 includes/class-wc-product-variation.php:537 includes/class-wc-product-variation.php:547
 msgid "(can be backordered)"
 msgstr "(có thể đặt hàng trước)"
 
-#: includes/abstracts/abstract-wc-product.php:639
-#: includes/class-wc-product-variation.php:544
+#: includes/abstracts/abstract-wc-product.php:639 includes/class-wc-product-variation.php:544
 msgid "%s in stock"
 msgstr "còn hàng: %s"
 
-#: includes/abstracts/abstract-wc-product.php:651
-#: includes/class-wc-product-variation.php:553 templates/cart/cart.php:74
+#: includes/abstracts/abstract-wc-product.php:651 includes/class-wc-product-variation.php:553 templates/cart/cart.php:74
 msgid "Available on backorder"
 msgstr "Cho phép đặt hàng trước"
 
-#: includes/abstracts/abstract-wc-product.php:661
-#: includes/abstracts/abstract-wc-product.php:667
-#: includes/class-wc-ajax.php:660 includes/class-wc-product-variation.php:559
-#: includes/class-wc-product-variation.php:563
+#: includes/abstracts/abstract-wc-product.php:661 includes/abstracts/abstract-wc-product.php:667 includes/class-wc-ajax.php:660 includes/class-wc-product-variation.php:559 includes/class-wc-product-variation.php:563
 msgid "Out of stock"
 msgstr "Hết hàng"
 
-#: includes/abstracts/abstract-wc-product.php:1107
-#: templates/single-product/rating.php:27
+#: includes/abstracts/abstract-wc-product.php:1107 templates/single-product/rating.php:27
 msgid "Rated %s out of 5"
 msgstr "%s / 5 điểm"
 
-#: includes/abstracts/abstract-wc-product.php:1109
-#: templates/single-product/review.php:30
+#: includes/abstracts/abstract-wc-product.php:1109 templates/single-product/review.php:30
 msgid "out of 5"
 msgstr "trên 5"
 
@@ -4844,78 +4765,63 @@ msgstr "trên 5"
 msgid "%s &ndash; %s"
 msgstr "%s &ndash; %s"
 
-#: includes/api/class-wc-api-authentication.php:89
-#: includes/api/v1/class-wc-api-authentication.php:88
+#: includes/api/class-wc-api-authentication.php:89 includes/api/v1/class-wc-api-authentication.php:88
 msgid "Consumer Key is missing"
 msgstr "Mã số khách hàng bị thiếu"
 
-#: includes/api/class-wc-api-authentication.php:105
-#: includes/api/v1/class-wc-api-authentication.php:104
+#: includes/api/class-wc-api-authentication.php:105 includes/api/v1/class-wc-api-authentication.php:104
 msgid "Consumer Secret is missing"
 msgstr "Bí mật khách hàng bị thiếu"
 
-#: includes/api/class-wc-api-authentication.php:111
-#: includes/api/v1/class-wc-api-authentication.php:110
+#: includes/api/class-wc-api-authentication.php:111 includes/api/v1/class-wc-api-authentication.php:110
 msgid "Consumer Secret is invalid"
 msgstr "Bí mật người dùng không hợp lệ"
 
-#: includes/api/class-wc-api-authentication.php:144
-#: includes/api/v1/class-wc-api-authentication.php:143
+#: includes/api/class-wc-api-authentication.php:144 includes/api/v1/class-wc-api-authentication.php:143
 msgid "%s parameter is missing"
 msgstr "%s tham số bị mất"
 
-#: includes/api/class-wc-api-authentication.php:178
-#: includes/api/v1/class-wc-api-authentication.php:177
+#: includes/api/class-wc-api-authentication.php:178 includes/api/v1/class-wc-api-authentication.php:177
 msgid "Consumer Key is invalid"
 msgstr "Mã số khách hàng không hợp lệ"
 
-#: includes/api/class-wc-api-authentication.php:228
-#: includes/api/v1/class-wc-api-authentication.php:227
+#: includes/api/class-wc-api-authentication.php:228 includes/api/v1/class-wc-api-authentication.php:227
 msgid "Invalid Signature - failed to sort parameters"
 msgstr "Chữ ký không hợp lệ - không thể sắp xếp các tham số"
 
-#: includes/api/class-wc-api-authentication.php:242
-#: includes/api/v1/class-wc-api-authentication.php:241
+#: includes/api/class-wc-api-authentication.php:242 includes/api/v1/class-wc-api-authentication.php:241
 msgid "Invalid Signature - signature method is invalid"
 msgstr "Chữ ký không hợp lệ - Phương pháp ký không hợp lệ"
 
-#: includes/api/class-wc-api-authentication.php:250
-#: includes/api/v1/class-wc-api-authentication.php:249
+#: includes/api/class-wc-api-authentication.php:250 includes/api/v1/class-wc-api-authentication.php:249
 msgid "Invalid Signature - provided signature does not match"
 msgstr "Chữ ký không hợp lệ - Chữ ký không trùng khớp"
 
-#: includes/api/class-wc-api-authentication.php:307
-#: includes/api/v1/class-wc-api-authentication.php:306
+#: includes/api/class-wc-api-authentication.php:307 includes/api/v1/class-wc-api-authentication.php:306
 msgid "Invalid timestamp"
 msgstr "Dấu thời gian không hợp lệ"
 
-#: includes/api/class-wc-api-authentication.php:315
-#: includes/api/v1/class-wc-api-authentication.php:314
+#: includes/api/class-wc-api-authentication.php:315 includes/api/v1/class-wc-api-authentication.php:314
 msgid "Invalid nonce - nonce has already been used"
 msgstr "Chuỗi nonce không hợp lệ - chuỗi nonce này đã được sử dụng"
 
-#: includes/api/class-wc-api-authentication.php:344
-#: includes/api/v1/class-wc-api-authentication.php:343
+#: includes/api/class-wc-api-authentication.php:344 includes/api/v1/class-wc-api-authentication.php:343
 msgid "The API key provided does not have read permissions"
 msgstr "Khóa API đã cung cấp không đủ quyền đọc"
 
-#: includes/api/class-wc-api-authentication.php:353
-#: includes/api/v1/class-wc-api-authentication.php:352
+#: includes/api/class-wc-api-authentication.php:353 includes/api/v1/class-wc-api-authentication.php:352
 msgid "The API key provided does not have write permissions"
 msgstr "Khóa API đã cung cấp không đủ quyền ghi"
 
-#: includes/api/class-wc-api-coupons.php:115
-#: includes/api/v1/class-wc-api-coupons.php:109
+#: includes/api/class-wc-api-coupons.php:115 includes/api/v1/class-wc-api-coupons.php:109
 msgid "Invalid coupon ID"
 msgstr "ID coupon không hợp lệ"
 
-#: includes/api/class-wc-api-coupons.php:161
-#: includes/api/v1/class-wc-api-coupons.php:153
+#: includes/api/class-wc-api-coupons.php:161 includes/api/v1/class-wc-api-coupons.php:153
 msgid "You do not have permission to read the coupons count"
 msgstr "Bạn không đủ quyền để xem tổng số các ưu đãi"
 
-#: includes/api/class-wc-api-coupons.php:187
-#: includes/api/v1/class-wc-api-coupons.php:172
+#: includes/api/class-wc-api-coupons.php:187 includes/api/v1/class-wc-api-coupons.php:172
 msgid "Invalid coupon code"
 msgstr "Mã ưu đãi không hợp lệ"
 
@@ -4923,21 +4829,15 @@ msgstr "Mã ưu đãi không hợp lệ"
 msgid "You do not have permission to create coupons"
 msgstr "Bạn không đủ quyền tạo các ưu đãi"
 
-#: includes/api/class-wc-api-coupons.php:218
-#: includes/api/class-wc-api-customers.php:351
-#: includes/api/class-wc-api-products.php:197
-#: includes/api/class-wc-api-server.php:418
-#: includes/api/v1/class-wc-api-server.php:407
+#: includes/api/class-wc-api-coupons.php:218 includes/api/class-wc-api-customers.php:351 includes/api/class-wc-api-products.php:197 includes/api/class-wc-api-server.php:418 includes/api/v1/class-wc-api-server.php:407
 msgid "Missing parameter %s"
 msgstr "Thiếu tham số %s"
 
-#: includes/api/class-wc-api-coupons.php:233
-#: includes/api/class-wc-api-coupons.php:345
+#: includes/api/class-wc-api-coupons.php:233 includes/api/class-wc-api-coupons.php:345
 msgid "The coupon code already exists"
 msgstr "Mã ưu đãi đã tồn tại"
 
-#: includes/api/class-wc-api-coupons.php:261
-#: includes/api/class-wc-api-coupons.php:357
+#: includes/api/class-wc-api-coupons.php:261 includes/api/class-wc-api-coupons.php:357
 msgid "Invalid coupon type - the coupon type must be any of these: %s"
 msgstr "Mã ưu đãi không hợp lệ - Mã ưu đãi phải có dạng như sau: %s"
 
@@ -4945,58 +4845,47 @@ msgstr "Mã ưu đãi không hợp lệ - Mã ưu đãi phải có dạng như s
 msgid "Failed to update coupon"
 msgstr "Cập nhật mã giảm giá không thành công"
 
-#: includes/api/class-wc-api-customers.php:212
-#: includes/api/class-wc-api-customers.php:215
+#: includes/api/class-wc-api-customers.php:212 includes/api/class-wc-api-customers.php:215
 msgid "Invalid customer Email"
 msgstr "Email khách hàng không hợp lệ"
 
-#: includes/api/class-wc-api-customers.php:234
-#: includes/api/v1/class-wc-api-customers.php:195
+#: includes/api/class-wc-api-customers.php:234 includes/api/v1/class-wc-api-customers.php:195
 msgid "You do not have permission to read the customers count"
 msgstr "Bạn không đủ quyền xem tổng số khách hàng"
 
-#: includes/api/class-wc-api-customers.php:344
-#: includes/api/v1/class-wc-api-customers.php:211
+#: includes/api/class-wc-api-customers.php:344 includes/api/v1/class-wc-api-customers.php:211
 msgid "You do not have permission to create this customer"
 msgstr "Bạn không đủ quyền tạo khách hàng này"
 
-#: includes/api/class-wc-api-customers.php:715
-#: includes/api/v1/class-wc-api-customers.php:461
+#: includes/api/class-wc-api-customers.php:715 includes/api/v1/class-wc-api-customers.php:461
 msgid "Invalid customer ID"
 msgstr "ID khách hàng không hợp lệ"
 
-#: includes/api/class-wc-api-customers.php:722
-#: includes/api/v1/class-wc-api-customers.php:467
+#: includes/api/class-wc-api-customers.php:722 includes/api/v1/class-wc-api-customers.php:467
 msgid "Invalid customer"
 msgstr "Khách hàng không hợp lệ"
 
-#: includes/api/class-wc-api-customers.php:730
-#: includes/api/v1/class-wc-api-customers.php:474
+#: includes/api/class-wc-api-customers.php:730 includes/api/v1/class-wc-api-customers.php:474
 msgid "You do not have permission to read this customer"
 msgstr "Bạn không đủ quyền để xem thông tin khách hàng này"
 
-#: includes/api/class-wc-api-customers.php:736
-#: includes/api/v1/class-wc-api-customers.php:479
+#: includes/api/class-wc-api-customers.php:736 includes/api/v1/class-wc-api-customers.php:479
 msgid "You do not have permission to edit this customer"
 msgstr "Bạn không đủ quyền để sửa thông tin khách hàng này"
 
-#: includes/api/class-wc-api-customers.php:742
-#: includes/api/v1/class-wc-api-customers.php:484
+#: includes/api/class-wc-api-customers.php:742 includes/api/v1/class-wc-api-customers.php:484
 msgid "You do not have permission to delete this customer"
 msgstr "Bạn không đủ quyền để xóa khách hàng này"
 
-#: includes/api/class-wc-api-json-handler.php:58
-#: includes/api/v1/class-wc-api-json-handler.php:59
+#: includes/api/class-wc-api-json-handler.php:58 includes/api/v1/class-wc-api-json-handler.php:59
 msgid "JSONP support is disabled on this site"
 msgstr "Hỗ trợ JSONP đã bị tắt tại website này"
 
-#: includes/api/class-wc-api-json-handler.php:66
-#: includes/api/v1/class-wc-api-json-handler.php:67
+#: includes/api/class-wc-api-json-handler.php:66 includes/api/v1/class-wc-api-json-handler.php:67
 msgid "The JSONP callback function is invalid"
 msgstr "Chức năng gọi ngược JSONP không có hiệu lực"
 
-#: includes/api/class-wc-api-orders.php:312
-#: includes/api/v1/class-wc-api-orders.php:258
+#: includes/api/class-wc-api-orders.php:312 includes/api/v1/class-wc-api-orders.php:258
 msgid "You do not have permission to read the orders count"
 msgstr "Bạn không đủ quyền để xem tổng số đơn hàng"
 
@@ -5004,8 +4893,7 @@ msgstr "Bạn không đủ quyền để xem tổng số đơn hàng"
 msgid "You do not have permission to create orders"
 msgstr "Bạn không có quyền tạo đơn đặt hàng"
 
-#: includes/api/class-wc-api-orders.php:379
-#: includes/api/class-wc-api-orders.php:528
+#: includes/api/class-wc-api-orders.php:379 includes/api/class-wc-api-orders.php:528
 msgid "Customer ID is invalid"
 msgstr "ID khách hàng không hợp lệ"
 
@@ -5017,8 +4905,7 @@ msgstr "Không thể tạo đơn đặt hàng: %s"
 msgid "Payment method ID and title are required"
 msgstr "Cần bổ sung ID phương thức thanh toán và tiêu đề"
 
-#: includes/api/class-wc-api-orders.php:439
-#: includes/api/class-wc-api-orders.php:599
+#: includes/api/class-wc-api-orders.php:439 includes/api/class-wc-api-orders.php:599
 msgid "Provided order currency is invalid"
 msgstr "Tiền tệ của đơn hàng không hợp lệ"
 
@@ -5110,15 +4997,11 @@ msgstr "Không thể tạo ưu đãi, xin thử lại"
 msgid "Cannot update coupon, try again"
 msgstr "Không thể cập nhật ưu đại, xin thử lại"
 
-#: includes/api/class-wc-api-orders.php:1176
-#: includes/api/class-wc-api-orders.php:1276
-#: includes/api/class-wc-api-orders.php:1338
+#: includes/api/class-wc-api-orders.php:1176 includes/api/class-wc-api-orders.php:1276 includes/api/class-wc-api-orders.php:1338
 msgid "Invalid order note ID"
 msgstr "ID ghi chú đơn hàng không hợp lệ"
 
-#: includes/api/class-wc-api-orders.php:1182
-#: includes/api/class-wc-api-orders.php:1283
-#: includes/api/class-wc-api-orders.php:1345
+#: includes/api/class-wc-api-orders.php:1182 includes/api/class-wc-api-orders.php:1283 includes/api/class-wc-api-orders.php:1345
 msgid "An order note with the provided ID could not be found"
 msgstr "Không thể tìm thấy ghi chú đơn hàng với ID đã được cấp "
 
@@ -5134,8 +5017,7 @@ msgstr "Cần bổ sung ghi chú đơn hàng"
 msgid "Cannot create order note, please try again"
 msgstr "Không thể tạo ghi chú đơn hàng, xin thử lại"
 
-#: includes/api/class-wc-api-orders.php:1288
-#: includes/api/class-wc-api-orders.php:1350
+#: includes/api/class-wc-api-orders.php:1288 includes/api/class-wc-api-orders.php:1350
 msgid "The order note ID provided is not associated with the order"
 msgstr "ID ghi chú đơn hàng đã cung cấp không liên quan đến đơn hàng"
 
@@ -5147,15 +5029,11 @@ msgstr "Ghi chú đơn hàng này không thể xóa được"
 msgid "Permanently deleted order note"
 msgstr "Xóa vĩnh viễn ghi chú đơn hàng"
 
-#: includes/api/class-wc-api-orders.php:1423
-#: includes/api/class-wc-api-orders.php:1577
-#: includes/api/class-wc-api-orders.php:1636
+#: includes/api/class-wc-api-orders.php:1423 includes/api/class-wc-api-orders.php:1577 includes/api/class-wc-api-orders.php:1636
 msgid "Invalid order refund ID"
 msgstr "ID hoàn tiền của đơn hàng không hợp lệ"
 
-#: includes/api/class-wc-api-orders.php:1430
-#: includes/api/class-wc-api-orders.php:1584
-#: includes/api/class-wc-api-orders.php:1643
+#: includes/api/class-wc-api-orders.php:1430 includes/api/class-wc-api-orders.php:1584 includes/api/class-wc-api-orders.php:1643
 msgid "An order refund with the provided ID could not be found"
 msgstr "Không thể tìm thấy đơn hoàn tiền với ID được cung cấp"
 
@@ -5180,18 +5058,14 @@ msgid "Cannot create order refund, please try again"
 msgstr "Không thể tạo đơn hoàn tiền, xin thử lại"
 
 #: includes/api/class-wc-api-orders.php:1537
-msgid ""
-"An error occurred while attempting to create the refund using the payment "
-"gateway API"
+msgid "An error occurred while attempting to create the refund using the payment gateway API"
 msgstr "Có lỗi xảy ra trong lúc tạo đơn hoàn tiền sử dụng cổng thanh toán API"
 
-#: includes/api/class-wc-api-orders.php:1589
-#: includes/api/class-wc-api-orders.php:1648
+#: includes/api/class-wc-api-orders.php:1589 includes/api/class-wc-api-orders.php:1648
 msgid "The order refund ID provided is not associated with the order"
 msgstr "ID đơn hoàn tiền đã cung cấp không liên đến đơn hàng"
 
-#: includes/api/class-wc-api-products.php:160
-#: includes/api/v1/class-wc-api-products.php:143
+#: includes/api/class-wc-api-products.php:160 includes/api/v1/class-wc-api-products.php:143
 msgid "You do not have permission to read the products count"
 msgstr "Bạn không đủ quyền để xem tổng số sản phẩm"
 
@@ -5199,13 +5073,11 @@ msgstr "Bạn không đủ quyền để xem tổng số sản phẩm"
 msgid "You do not have permission to create products"
 msgstr "Bạn không đủ quyền để tạo sản phẩm"
 
-#: includes/api/class-wc-api-products.php:212
-#: includes/api/class-wc-api-products.php:326
+#: includes/api/class-wc-api-products.php:212 includes/api/class-wc-api-products.php:326
 msgid "Invalid product type - the product type must be any of these: %s"
 msgstr "Loại sản phẩm không hợp lệ - loại sản phẩm phải có dạng như: %s"
 
-#: includes/api/class-wc-api-products.php:426
-#: includes/api/class-wc-api-products.php:462
+#: includes/api/class-wc-api-products.php:426 includes/api/class-wc-api-products.php:462
 msgid "You do not have permission to read product categories"
 msgstr "Bạn không đủ quyền để xem danh mục sản phẩm"
 
@@ -5217,8 +5089,7 @@ msgstr "ID danh mục sản phẩm không hợp lệ"
 msgid "A product category with the provided ID could not be found"
 msgstr "Không thể tìm thấy danh mục sản phẩm với ID được cung cấp"
 
-#: includes/api/class-wc-api-products.php:731
-#: includes/api/class-wc-api-products.php:1189
+#: includes/api/class-wc-api-products.php:731 includes/api/class-wc-api-products.php:1189
 msgid "The SKU already exists on another product"
 msgstr "Mã SKU này đã được dùng cho sản phẩm khác"
 
@@ -5226,12 +5097,7 @@ msgstr "Mã SKU này đã được dùng cho sản phẩm khác"
 msgid "Variation #%s of %s"
 msgstr "Biến thể #%s của %s"
 
-#: includes/api/class-wc-api-products.php:1614
-#: includes/api/class-wc-api-products.php:1615
-#: includes/api/v1/class-wc-api-products.php:461
-#: includes/api/v1/class-wc-api-products.php:462
-#: includes/wc-product-functions.php:270
-#: templates/single-product/product-image.php:40
+#: includes/api/class-wc-api-products.php:1614 includes/api/class-wc-api-products.php:1615 includes/api/v1/class-wc-api-products.php:461 includes/api/v1/class-wc-api-products.php:462 includes/wc-product-functions.php:270 templates/single-product/product-image.php:40
 msgid "Placeholder"
 msgstr "Giữ chỗ"
 
@@ -5251,13 +5117,11 @@ msgstr "Đã tải tập tin kích thước bằng không"
 msgid "Invalid product SKU"
 msgstr "Mã sản phẩm không hợp lệ"
 
-#: includes/api/class-wc-api-reports.php:320
-#: includes/api/v1/class-wc-api-reports.php:471
+#: includes/api/class-wc-api-reports.php:320 includes/api/v1/class-wc-api-reports.php:471
 msgid "You do not have permission to read this report"
 msgstr "Bạn không đủ quyền đọc báo cáo này"
 
-#: includes/api/class-wc-api-resource.php:85
-#: includes/api/v1/class-wc-api-resource.php:74
+#: includes/api/class-wc-api-resource.php:85 includes/api/v1/class-wc-api-resource.php:74
 msgid "Invalid %s ID"
 msgstr "ID %s không hợp lệ"
 
@@ -5265,68 +5129,55 @@ msgstr "ID %s không hợp lệ"
 msgid "No %s found with the ID equal to %s"
 msgstr "Không có %s tìm thấy cùng ID bằng %s"
 
-#: includes/api/class-wc-api-resource.php:102
-#: includes/api/v1/class-wc-api-resource.php:86
+#: includes/api/class-wc-api-resource.php:102 includes/api/v1/class-wc-api-resource.php:86
 msgid "Invalid %s"
 msgstr "%s không hợp lệ"
 
-#: includes/api/class-wc-api-resource.php:110
-#: includes/api/v1/class-wc-api-resource.php:93
+#: includes/api/class-wc-api-resource.php:110 includes/api/v1/class-wc-api-resource.php:93
 msgid "You do not have permission to read this %s"
 msgstr "Bạn không đủ quyền xem %s này"
 
-#: includes/api/class-wc-api-resource.php:115
-#: includes/api/v1/class-wc-api-resource.php:98
+#: includes/api/class-wc-api-resource.php:115 includes/api/v1/class-wc-api-resource.php:98
 msgid "You do not have permission to edit this %s"
 msgstr "Bạn không đủ quyền chỉnh sửa %s này"
 
-#: includes/api/class-wc-api-resource.php:120
-#: includes/api/v1/class-wc-api-resource.php:103
+#: includes/api/class-wc-api-resource.php:120 includes/api/v1/class-wc-api-resource.php:103
 msgid "You do not have permission to delete this %s"
 msgstr "Bạn không đủ quyền xóa %s này"
 
-#: includes/api/class-wc-api-resource.php:361
-#: includes/api/v1/class-wc-api-resource.php:305
+#: includes/api/class-wc-api-resource.php:361 includes/api/v1/class-wc-api-resource.php:305
 msgid "Permanently deleted customer"
 msgstr "Xoá khách hàng vĩnh viễn"
 
-#: includes/api/class-wc-api-resource.php:363
-#: includes/api/v1/class-wc-api-resource.php:307
+#: includes/api/class-wc-api-resource.php:363 includes/api/v1/class-wc-api-resource.php:307
 msgid "The customer cannot be deleted"
 msgstr "Khách hàng không thể bị xóa"
 
-#: includes/api/class-wc-api-resource.php:372
-#: includes/api/v1/class-wc-api-resource.php:316
+#: includes/api/class-wc-api-resource.php:372 includes/api/v1/class-wc-api-resource.php:316
 msgid "This %s cannot be deleted"
 msgstr "%s không thể xoá"
 
-#: includes/api/class-wc-api-resource.php:375
-#: includes/api/v1/class-wc-api-resource.php:319
+#: includes/api/class-wc-api-resource.php:375 includes/api/v1/class-wc-api-resource.php:319
 msgid "Permanently deleted %s"
 msgstr "Xoá ngay %s"
 
-#: includes/api/class-wc-api-resource.php:381
-#: includes/api/v1/class-wc-api-resource.php:325
+#: includes/api/class-wc-api-resource.php:381 includes/api/v1/class-wc-api-resource.php:325
 msgid "Deleted %s"
 msgstr "Đã xóa %s"
 
-#: includes/api/class-wc-api-server.php:160
-#: includes/api/v1/class-wc-api-server.php:168
+#: includes/api/class-wc-api-server.php:160 includes/api/v1/class-wc-api-server.php:168
 msgid "Invalid authentication method"
 msgstr "Phương thức xác minh không hợp lệ"
 
-#: includes/api/class-wc-api-server.php:311
-#: includes/api/v1/class-wc-api-server.php:319
+#: includes/api/class-wc-api-server.php:311 includes/api/v1/class-wc-api-server.php:319
 msgid "Unsupported request method"
 msgstr "Phương thức yêu cầu không được hỗ trợ"
 
-#: includes/api/class-wc-api-server.php:328
-#: includes/api/v1/class-wc-api-server.php:336
+#: includes/api/class-wc-api-server.php:328 includes/api/v1/class-wc-api-server.php:336
 msgid "The handler for the route is invalid"
 msgstr "Việc xử lý đối với đường dẫn này không hợp lệ"
 
-#: includes/api/class-wc-api-server.php:364
-#: includes/api/v1/class-wc-api-server.php:372
+#: includes/api/class-wc-api-server.php:364 includes/api/v1/class-wc-api-server.php:372
 msgid "No route was found matching the URL and request method"
 msgstr "Không tìm thấy đường dẫn nào phù hợp với liên kết URL và phương thức yêu cầu"
 
@@ -5342,10 +5193,8 @@ msgstr "Bạn không đủ quyền tạo webhook"
 msgid "Webhook topic is required and must be valid"
 msgstr "Cần bổ sung chủ đề webhook hợp lệ"
 
-#: includes/api/class-wc-api-webhooks.php:185
-#: includes/api/class-wc-api-webhooks.php:273
-msgid ""
-"Webhook delivery URL must be a valid URL starting with http:// or https://"
+#: includes/api/class-wc-api-webhooks.php:185 includes/api/class-wc-api-webhooks.php:273
+msgid "Webhook delivery URL must be a valid URL starting with http:// or https://"
 msgstr "Liên kết URL phân phối webhook phải hợp lệ và bắt đầu bằng http:// hoặc https://"
 
 #: includes/api/class-wc-api-webhooks.php:194
@@ -5388,8 +5237,7 @@ msgstr "Quay lại trang chủ"
 msgid "Same as parent"
 msgstr "Tương tự bản gốc"
 
-#: includes/class-wc-ajax.php:644
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:212
+#: includes/class-wc-ajax.php:644 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:212
 msgid "Standard"
 msgstr "Chuẩn"
 
@@ -5410,25 +5258,18 @@ msgid "File %d"
 msgstr "File %d"
 
 #: includes/class-wc-ajax.php:1209
-msgid ""
-"No products had their stock reduced - they may not have stock management "
-"enabled."
+msgid "No products had their stock reduced - they may not have stock management enabled."
 msgstr "Không có sản phẩm nào bị giảm trữ lượng - có thể là do tính năng quản lý kho không được bật."
 
-#: includes/class-wc-ajax.php:1248 includes/class-wc-ajax.php:1249
-#: includes/class-wc-ajax.php:1930
+#: includes/class-wc-ajax.php:1248 includes/class-wc-ajax.php:1249 includes/class-wc-ajax.php:1930
 msgid "Item #%s stock increased from %s to %s."
 msgstr "Lượng dự trữ sản phẩm #%s đã tăng từ %s lên %s."
 
 #: includes/class-wc-ajax.php:1256
-msgid ""
-"No products had their stock increased - they may not have stock management "
-"enabled."
+msgid "No products had their stock increased - they may not have stock management enabled."
 msgstr "Không có sản phẩm nào bị tăng trữ lượng - có thể là do tính năng quản lý kho không được bật."
 
-#: includes/class-wc-ajax.php:1271
-#: includes/widgets/class-wc-widget-product-categories.php:52
-#: templates/single-product-reviews.php:65
+#: includes/class-wc-ajax.php:1271 includes/widgets/class-wc-widget-product-categories.php:52 templates/single-product-reviews.php:65
 msgid "Name"
 msgstr "Tên"
 
@@ -5473,16 +5314,11 @@ msgid "Page %d"
 msgstr "Trang %d"
 
 #: includes/class-wc-cache-helper.php:132
-msgid ""
-"In order for <strong>database caching</strong> to work with WooCommerce you "
-"must add <code>_wc_session_</code> to the \"Ignored Query Strings\" option "
-"in W3 Total Cache settings <a href=\"%s\">here</a>."
+msgid "In order for <strong>database caching</strong> to work with WooCommerce you must add <code>_wc_session_</code> to the \"Ignored Query Strings\" option in W3 Total Cache settings <a href=\"%s\">here</a>."
 msgstr "Để <strong>database caching</strong> làm việc với WooCommerce bạn phải thêm đoạn <code>_wc_session_</code> vào tùy chọn \"Ignored Query Strings\" trong phần thiếp lập của W3 Total Cahe ở <a href=\"%s\">đây</a>"
 
 #: includes/class-wc-cart.php:229
-msgid ""
-"%s has been removed from your cart because it can no longer be purchased. "
-"Please contact us if you need assistance."
+msgid "%s has been removed from your cart because it can no longer be purchased. Please contact us if you need assistance."
 msgstr "%s đã được xóa bỏ khỏi giỏ hàng của bạn vì nó không còn được mua nữa. Vui lòng liên hệ chúng tôi nếu bạn cần hỗ trợ."
 
 #: includes/class-wc-cart.php:423
@@ -5490,32 +5326,22 @@ msgid "An item which is no longer available was removed from your cart."
 msgstr "Một món hàng không còn tồn tại đã được xóa bỏ khỏi giỏ hàng của bạn"
 
 #: includes/class-wc-cart.php:449
-msgid ""
-"Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
-"apologise for any inconvenience caused."
+msgid "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We apologise for any inconvenience caused."
 msgstr "XIn lỗi, \"%s\" hiện không có trong kho.  Xin vui lòng điều chỉnh giỏ hàng của bạn và thử lại. Chúng tôi thành thật cáo lỗi vì sự bất tiện này."
 
 #: includes/class-wc-cart.php:463
-msgid ""
-"Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
-"stock). Please edit your cart and try again. We apologise for any "
-"inconvenience caused."
+msgid "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in stock). Please edit your cart and try again. We apologise for any inconvenience caused."
 msgstr "Rất tiếc, chúng tôi không đủ sản phẩm \"%s\" cho đơn hàng của bạn (hiện chỉ còn %s sản phẩm). Vui lòng điều chỉnh lại giỏ hàng và thử lại. Chúng tôi thành thật xin lỗi vì phiền toái này."
 
 #: includes/class-wc-cart.php:498
-msgid ""
-"Sorry, we do not have enough \"%s\" in stock to fulfill your order right "
-"now. Please try again in %d minutes or edit your cart and try again. We "
-"apologise for any inconvenience caused."
+msgid "Sorry, we do not have enough \"%s\" in stock to fulfill your order right now. Please try again in %d minutes or edit your cart and try again. We apologise for any inconvenience caused."
 msgstr "Rất tiếc, hiện thời chúng tôi không có đủ sản phẩm \"%s\" cho đơn hàng của bạn. Vui lòng điều chỉnh lại giỏ hàng và thử lại. Chúng tôi thành thật xin lỗi vì phiền toái này."
 
 #: includes/class-wc-cart.php:677
 msgid "Get cart should not be called before the wp_loaded action."
 msgstr "Giỏ hàng không được gọi trước khi wp_loaded hoạt động."
 
-#: includes/class-wc-cart.php:879 includes/class-wc-cart.php:914
-#: includes/class-wc-frontend-scripts.php:254
-#: includes/wc-cart-functions.php:100 templates/cart/mini-cart.php:68
+#: includes/class-wc-cart.php:879 includes/class-wc-cart.php:914 includes/class-wc-frontend-scripts.php:254 includes/wc-cart-functions.php:100 templates/cart/mini-cart.php:68
 msgid "View Cart"
 msgstr "Xem giỏ"
 
@@ -5528,28 +5354,19 @@ msgid "Sorry, this product cannot be purchased."
 msgstr "Xin lỗi bạn, hiện sản phẩm này không thể mua được."
 
 #: includes/class-wc-cart.php:890
-msgid ""
-"You cannot add &quot;%s&quot; to the cart because the product is out of "
-"stock."
+msgid "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
 msgstr "Bạn không thể thêm &quot;%s&quot; vào giỏ hàng vì sản phẩm này hiện đã hết hàng."
 
 #: includes/class-wc-cart.php:894
-msgid ""
-"You cannot add that amount of &quot;%s&quot; to the cart because there is "
-"not enough stock (%s remaining)."
+msgid "You cannot add that amount of &quot;%s&quot; to the cart because there is not enough stock (%s remaining)."
 msgstr "Bạn không thể thêm &quot;%s&quot; vào giỏ hàng vì hiện không còn đủ hàng (chỉ còn %s sản phẩm)"
 
 #: includes/class-wc-cart.php:915
-msgid ""
-"You cannot add that amount to the cart &mdash; we have %s in stock and you "
-"already have %s in your cart."
+msgid "You cannot add that amount to the cart &mdash; we have %s in stock and you already have %s in your cart."
 msgstr "Bạn không thể thêm sản phẩm vào giỏ hàng &mdash;; chúng tôi chỉ còn %s sản phẩm trong kho và bạn hiện đã có %s sản phẩm trong giỏ hàng."
 
-#: includes/class-wc-checkout.php:69 includes/class-wc-checkout.php:78
-#: includes/class-wc-emails.php:43 includes/class-wc-emails.php:52
-#: includes/class-wc-payment-gateways.php:46
-#: includes/class-wc-payment-gateways.php:55 includes/class-wc-shipping.php:65
-#: includes/class-wc-shipping.php:74 woocommerce.php:106 woocommerce.php:114
+#: includes/class-wc-checkout.php:69 includes/class-wc-checkout.php:78 includes/class-wc-emails.php:43 includes/class-wc-emails.php:52 includes/class-wc-payment-gateways.php:46 includes/class-wc-payment-gateways.php:55 includes/class-wc-shipping.php:65 includes/class-wc-shipping.php:74
+#: woocommerce.php:106 woocommerce.php:114
 msgid "Cheatin&#8217; huh?"
 msgstr "Cheatin&#8217; huh?"
 
@@ -5565,10 +5382,7 @@ msgstr "Mật khẩu tài khoản"
 msgid "Order Notes"
 msgstr "Ghi chú"
 
-#: includes/class-wc-checkout.php:202 includes/class-wc-checkout.php:213
-#: includes/class-wc-checkout.php:238 includes/class-wc-checkout.php:250
-#: includes/class-wc-checkout.php:263 includes/class-wc-checkout.php:274
-#: includes/class-wc-checkout.php:281
+#: includes/class-wc-checkout.php:202 includes/class-wc-checkout.php:213 includes/class-wc-checkout.php:238 includes/class-wc-checkout.php:250 includes/class-wc-checkout.php:263 includes/class-wc-checkout.php:274 includes/class-wc-checkout.php:281
 msgid "Error %d: Unable to create order. Please try again."
 msgstr "Lỗi %d: Không thể tạo đơn hàng. Vui lòng thử lại."
 
@@ -5577,17 +5391,14 @@ msgid "We were unable to process your order, please try again."
 msgstr "Chúng tôi không thể xử lý đơn hàng của bạn, vui lòng thử lại."
 
 #: includes/class-wc-checkout.php:366
-msgid ""
-"Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return"
-" to homepage</a>"
+msgid "Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return to homepage</a>"
 msgstr "Xin lỗi, phiên truy xuất của bạn đã kết thúc. <a href=\"%s\" class=\"wc-backward\">Trở về trang chủ</a>"
 
 #: includes/class-wc-checkout.php:446 includes/class-wc-form-handler.php:85
 msgid "is a required field."
 msgstr "là ô bắt buộc"
 
-#: includes/class-wc-checkout.php:459 includes/class-wc-form-handler.php:98
-#: includes/shortcodes/class-wc-shortcode-cart.php:27
+#: includes/class-wc-checkout.php:459 includes/class-wc-form-handler.php:98 includes/shortcodes/class-wc-shortcode-cart.php:27
 msgid "Please enter a valid postcode/ZIP."
 msgstr "Vui lòng nhập chính xác mã bưu điện"
 
@@ -5608,9 +5419,7 @@ msgid "You must accept our Terms &amp; Conditions."
 msgstr "Bạn phải đồng ý với các Điều khoản &amp; Quy định."
 
 #: includes/class-wc-checkout.php:554
-msgid ""
-"Unfortunately <strong>we do not ship %s</strong>. Please enter an "
-"alternative shipping address."
+msgid "Unfortunately <strong>we do not ship %s</strong>. Please enter an alternative shipping address."
 msgstr "Thật tiếc, <strong>chúng tôi không vận chuyển đến %s</strong>. Xin hãy nhập địa chỉ giao nhận thay thế."
 
 #: includes/class-wc-checkout.php:563
@@ -5689,8 +5498,7 @@ msgstr "Tỉnh / Thành phố"
 msgid "State / County"
 msgstr "Bang / Hạt"
 
-#: includes/class-wc-countries.php:517 includes/class-wc-countries.php:518
-#: templates/cart/shipping-calculator.php:82
+#: includes/class-wc-countries.php:517 includes/class-wc-countries.php:518 templates/cart/shipping-calculator.php:82
 msgid "Postcode / Zip"
 msgstr "Mã bưu điện"
 
@@ -5710,10 +5518,7 @@ msgstr "Bang"
 msgid "District"
 msgstr "Quận"
 
-#: includes/class-wc-countries.php:594 includes/class-wc-countries.php:616
-#: includes/class-wc-countries.php:640 includes/class-wc-countries.php:701
-#: includes/class-wc-countries.php:720 includes/class-wc-countries.php:737
-#: includes/class-wc-countries.php:797 includes/class-wc-countries.php:821
+#: includes/class-wc-countries.php:594 includes/class-wc-countries.php:616 includes/class-wc-countries.php:640 includes/class-wc-countries.php:701 includes/class-wc-countries.php:720 includes/class-wc-countries.php:737 includes/class-wc-countries.php:797 includes/class-wc-countries.php:821
 #: includes/class-wc-countries.php:863
 msgid "Province"
 msgstr "Tỉnh"
@@ -5771,15 +5576,11 @@ msgid "Coupon does not exist!"
 msgstr "Mã ưu đãi không tồn tại!"
 
 #: includes/class-wc-coupon.php:705
-msgid ""
-"Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
-"your order."
+msgid "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from your order."
 msgstr "Xin lỗi bạn, có vẻ như mã ưu đãi \"%s\" không hợp lệ - bây giờ nó sẽ được xóa khỏi đơn hàng của bạn."
 
 #: includes/class-wc-coupon.php:708
-msgid ""
-"Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
-"from your order."
+msgid "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed from your order."
 msgstr "Xin lỗi bạn, có vẻ như mã ưu đãi \"%s\" không phải của bạn - bây giờ nó sẽ được xóa khỏi đơn hàng của bạn."
 
 #: includes/class-wc-coupon.php:711
@@ -5787,9 +5588,7 @@ msgid "Coupon code already applied!"
 msgstr "Mã ưu đãi đã bị sử dụng rồi!"
 
 #: includes/class-wc-coupon.php:714
-msgid ""
-"Sorry, coupon \"%s\" has already been applied and cannot be used in "
-"conjunction with other coupons."
+msgid "Sorry, coupon \"%s\" has already been applied and cannot be used in conjunction with other coupons."
 msgstr "Xin lỗi bạn, mã ưu đãi \"%s\" đã được sử dụng và không thể dùng để kết hợp với các mã ưu đãi khác."
 
 #: includes/class-wc-coupon.php:717
@@ -5832,10 +5631,7 @@ msgstr "Vui lòng nhập mã ưu đãi."
 msgid "Invalid download link."
 msgstr "Liên kết tải xuống không hợp lệ."
 
-#: includes/class-wc-download-handler.php:98
-#: includes/class-wc-form-handler.php:557
-#: includes/shortcodes/class-wc-shortcode-checkout.php:166
-#: includes/shortcodes/class-wc-shortcode-my-account.php:111
+#: includes/class-wc-download-handler.php:98 includes/class-wc-form-handler.php:557 includes/shortcodes/class-wc-shortcode-checkout.php:166 includes/shortcodes/class-wc-shortcode-my-account.php:111
 msgid "Invalid order."
 msgstr "Đơn hàng không hợp lệ."
 
@@ -5847,14 +5643,11 @@ msgstr "Rất tiếc, bạn đã chạm tới giới hạn tải về đối v�
 msgid "Sorry, this download has expired"
 msgstr "Rất tiếc, phiên tải về đã hết hạn"
 
-#: includes/class-wc-download-handler.php:133
-#: includes/class-wc-download-handler.php:136
+#: includes/class-wc-download-handler.php:133 includes/class-wc-download-handler.php:136
 msgid "You must be logged in to download files."
 msgstr "Bạn phải đăng nhập để tải về tập tin."
 
-#: includes/class-wc-download-handler.php:136
-#: templates/global/form-login.php:39 templates/myaccount/form-login.php:28
-#: templates/myaccount/form-login.php:47
+#: includes/class-wc-download-handler.php:136 templates/global/form-login.php:39 templates/myaccount/form-login.php:28 templates/myaccount/form-login.php:47
 msgid "Login"
 msgstr "Đăng nhập"
 
@@ -5882,8 +5675,7 @@ msgstr "Truy cập trang chủ"
 msgid "Note"
 msgstr "Ghi chú"
 
-#: includes/class-wc-emails.php:319 templates/order/order-details.php:172
-#: templates/single-product-reviews.php:67
+#: includes/class-wc-emails.php:319 templates/order/order-details.php:172 templates/single-product-reviews.php:67
 msgid "Email"
 msgstr "Email"
 
@@ -5955,8 +5747,7 @@ msgstr "Vui lòng nhập mật khẩu hiện tại của bạn"
 msgid "Please re-enter your password."
 msgstr "Vui lòng nhập lại mật khẩu của bạn."
 
-#: includes/class-wc-form-handler.php:203
-#: includes/class-wc-form-handler.php:856
+#: includes/class-wc-form-handler.php:203 includes/class-wc-form-handler.php:856
 msgid "Passwords do not match."
 msgstr "Mật khẩu không khớp."
 
@@ -5997,34 +5788,26 @@ msgid "Your order was cancelled."
 msgstr "Đơn hàng của bạn đã được hủy."
 
 #: includes/class-wc-form-handler.php:555
-msgid ""
-"Your order can no longer be cancelled. Please contact us if you need "
-"assistance."
+msgid "Your order can no longer be cancelled. Please contact us if you need assistance."
 msgstr "Đơn hàng của bạn không thể hủy bỏ được. Vui lòng liên hệ chúng tôi nếu bạn cần hỗ trợ."
 
 #: includes/class-wc-form-handler.php:587
 msgid "Sorry, this product is unavailable."
 msgstr "Xin lỗi bạn, sản phẩm này không tồn tại."
 
-#: includes/class-wc-form-handler.php:601
-#: includes/class-wc-form-handler.php:661
+#: includes/class-wc-form-handler.php:601 includes/class-wc-form-handler.php:661
 msgid "Please choose product options&hellip;"
 msgstr "Vui lòng chọn tùy chọn sản phẩm&hellip;"
 
 #: includes/class-wc-form-handler.php:695
-msgid ""
-"Please choose the quantity of items you wish to add to your cart&hellip;"
+msgid "Please choose the quantity of items you wish to add to your cart&hellip;"
 msgstr "Vui lòng chọn số lượng món hàng bạn muốn thêm vào giỏ&hellip;"
 
 #: includes/class-wc-form-handler.php:702
 msgid "Please choose a product to add to your cart&hellip;"
 msgstr "Vui lòng chọn một sản phẩm để thêm vào giỏ hàng của bạn&hellip;"
 
-#: includes/class-wc-form-handler.php:766
-#: includes/class-wc-form-handler.php:770
-#: includes/class-wc-form-handler.php:774
-#: includes/class-wc-form-handler.php:783
-#: includes/class-wc-form-handler.php:912
+#: includes/class-wc-form-handler.php:766 includes/class-wc-form-handler.php:770 includes/class-wc-form-handler.php:774 includes/class-wc-form-handler.php:783 includes/class-wc-form-handler.php:912
 msgid "Error"
 msgstr "Lỗi"
 
@@ -6056,20 +5839,16 @@ msgstr "Vùng chống thư rác đã được điền vào."
 msgid "Please select a rating"
 msgstr "Vui lòng chọn một mức đánh giá"
 
-#: includes/class-wc-frontend-scripts.php:236
-#: includes/wc-template-functions.php:1564
+#: includes/class-wc-frontend-scripts.php:236 includes/wc-template-functions.php:1564
 msgid "required"
 msgstr "bắt buộc"
 
 #: includes/class-wc-frontend-scripts.php:262
-msgid ""
-"Sorry, no products matched your selection. Please choose a different "
-"combination."
+msgid "Sorry, no products matched your selection. Please choose a different combination."
 msgstr "Rất tiếc, không tìm thấy sản phẩm nào phù hợp"
 
 #: includes/class-wc-frontend-scripts.php:263
-msgid ""
-"Sorry, this product is unavailable. Please choose a different combination."
+msgid "Sorry, this product is unavailable. Please choose a different combination."
 msgstr "Xin lỗi bạn, sản phẩm này hiện không tồn tại. Xin vui lòng chọn sản phẩm khác."
 
 #: includes/class-wc-frontend-scripts.php:269
@@ -6112,8 +5891,7 @@ msgstr "Ghé thăm diễn đàn Hỗ Trợ Khách Hàng Cao Cấp"
 msgid "Premium Support"
 msgstr "Hỗ trợ cao cấp"
 
-#: includes/class-wc-post-types.php:62 includes/class-wc-post-types.php:64
-#: includes/widgets/class-wc-widget-product-categories.php:43
+#: includes/class-wc-post-types.php:62 includes/class-wc-post-types.php:64 includes/widgets/class-wc-widget-product-categories.php:43
 msgid "Product Categories"
 msgstr "Danh mục sản phẩm"
 
@@ -6153,8 +5931,7 @@ msgstr "Thêm danh mục sản phẩm mới"
 msgid "New Product Category Name"
 msgstr "Tên danh mục sản phẩm mới"
 
-#: includes/class-wc-post-types.php:97 includes/class-wc-post-types.php:99
-#: includes/widgets/class-wc-widget-product-tag-cloud.php:29
+#: includes/class-wc-post-types.php:97 includes/class-wc-post-types.php:99 includes/widgets/class-wc-widget-product-tag-cloud.php:29
 msgid "Product Tags"
 msgstr "Từ khóa sản phẩm"
 
@@ -6210,8 +5987,7 @@ msgstr "Không tìm thấy từ khóa sản phẩm"
 msgid "Shipping Classes"
 msgstr "Các loại hình giao nhận"
 
-#: includes/class-wc-post-types.php:137
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:16
+#: includes/class-wc-post-types.php:137 includes/shipping/flat-rate/includes/html-extra-costs.php:16
 msgid "Shipping Class"
 msgstr "Loại hình giao nhận"
 
@@ -6279,20 +6055,12 @@ msgstr "Thêm mới %s"
 msgid "New %s"
 msgstr "%s mới"
 
-#: includes/class-wc-post-types.php:233
-#: includes/widgets/class-wc-widget-products.php:29
+#: includes/class-wc-post-types.php:233 includes/widgets/class-wc-widget-products.php:29
 msgid "Products"
 msgstr "Sản phẩm"
 
-#: includes/class-wc-post-types.php:234 templates/cart/cart.php:27
-#: templates/checkout/form-pay.php:20 templates/checkout/review-order.php:17
-#: templates/emails/admin-cancelled-order.php:22
-#: templates/emails/admin-new-order.php:27
-#: templates/emails/customer-completed-order.php:27
-#: templates/emails/customer-invoice.php:31
-#: templates/emails/customer-note.php:31
-#: templates/emails/customer-processing-order.php:27
-#: templates/order/order-details.php:21
+#: includes/class-wc-post-types.php:234 templates/cart/cart.php:27 templates/checkout/form-pay.php:20 templates/checkout/review-order.php:17 templates/emails/admin-cancelled-order.php:22 templates/emails/admin-new-order.php:27 templates/emails/customer-completed-order.php:27
+#: templates/emails/customer-invoice.php:31 templates/emails/customer-note.php:31 templates/emails/customer-processing-order.php:27 templates/order/order-details.php:21
 msgid "Product"
 msgstr "Sản phẩm"
 
@@ -6304,9 +6072,7 @@ msgstr "Thêm sản phẩm"
 msgid "Add New Product"
 msgstr "Thêm sản phẩm mới"
 
-#: includes/class-wc-post-types.php:238 includes/class-wc-post-types.php:285
-#: includes/class-wc-post-types.php:344 includes/class-wc-post-types.php:382
-#: templates/myaccount/my-address.php:45
+#: includes/class-wc-post-types.php:238 includes/class-wc-post-types.php:285 includes/class-wc-post-types.php:344 includes/class-wc-post-types.php:382 templates/myaccount/my-address.php:45
 msgid "Edit"
 msgstr "Sửa"
 
@@ -6447,8 +6213,7 @@ msgid "Parent Coupon"
 msgstr "Phiếu ưu đãi gốc"
 
 #: includes/class-wc-post-types.php:354
-msgid ""
-"This is where you can add new coupons that customers can use in your store."
+msgid "This is where you can add new coupons that customers can use in your store."
 msgstr "Đây là nơi bạn có thể thêm các phiếu ưu đãi mới để khách hàng có thể sử dụng ở cửa hàng của bạn."
 
 #: includes/class-wc-post-types.php:377
@@ -6542,8 +6307,7 @@ msgstr "Mua sản phẩm"
 msgid "View products"
 msgstr "Xem sản phẩm"
 
-#: includes/class-wc-product-simple.php:50
-#: includes/class-wc-product-variation.php:198
+#: includes/class-wc-product-simple.php:50 includes/class-wc-product-variation.php:198
 msgid "Read More"
 msgstr "Xem tiếp"
 
@@ -6552,9 +6316,7 @@ msgid "Select options"
 msgstr "Tùy chọn"
 
 #: includes/class-wc-product-variable.php:570
-msgid ""
-"This variable product has no active variations so cannot be published. "
-"Changing status to draft."
+msgid "This variable product has no active variations so cannot be published. Changing status to draft."
 msgstr "Sản phẩm này không có các biến thể được kích hoạt do đó không thể được công khai. Thay đổi trạng thái sang bản nháp."
 
 #: includes/class-wc-product-variation.php:662
@@ -6581,8 +6343,7 @@ msgstr "Sửa chi tiết tài khoản"
 msgid "Edit Address"
 msgstr "Sửa địa chỉ"
 
-#: includes/class-wc-query.php:125
-#: templates/myaccount/form-add-payment-method.php:49
+#: includes/class-wc-query.php:125 templates/myaccount/form-add-payment-method.php:49
 msgid "Add Payment Method"
 msgstr "Thêm phương thức thanh toán"
 
@@ -6591,98 +6352,60 @@ msgid "Lost Password"
 msgstr "Quên mật khẩu"
 
 #: includes/class-wc-shortcodes.php:947
-msgid ""
-"Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
-"in WC 2.2."
+msgid "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed in WC 2.2."
 msgstr "Dùng $args[\"posts_per_page\"] để thay thế. Đối số sẽ bị loại bỏ khỏi WC 2.2."
 
-#: includes/emails/class-wc-email-cancelled-order.php:28
-#: includes/emails/class-wc-email-cancelled-order.php:31
+#: includes/emails/class-wc-email-cancelled-order.php:28 includes/emails/class-wc-email-cancelled-order.php:31
 msgid "Cancelled order"
 msgstr "Hủy đơn hàng"
 
 #: includes/emails/class-wc-email-cancelled-order.php:29
-msgid ""
-"Cancelled order emails are sent when orders have been marked cancelled (if "
-"they were previously pending or on-hold)."
+msgid "Cancelled order emails are sent when orders have been marked cancelled (if they were previously pending or on-hold)."
 msgstr "Email hủy đơn hàng sẽ được gửi khi đơn hàng được đánh dấu hủy bỏ (Nếu họ trước đó đang xem xét hoặc đang chờ)"
 
 #: includes/emails/class-wc-email-cancelled-order.php:32
 msgid "[{site_title}] Cancelled order ({order_number})"
 msgstr "[{site_title}] Hủy đơn hàng ({order_number})"
 
-#: includes/emails/class-wc-email-cancelled-order.php:117
-#: includes/emails/class-wc-email-customer-completed-order.php:143
-#: includes/emails/class-wc-email-new-order.php:123
-#: includes/emails/class-wc-email.php:468
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:74
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:54
-#: includes/gateways/paypal/includes/settings-paypal.php:12
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:185
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:12
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:69
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:52
+#: includes/emails/class-wc-email-cancelled-order.php:117 includes/emails/class-wc-email-customer-completed-order.php:143 includes/emails/class-wc-email-new-order.php:123 includes/emails/class-wc-email.php:468 includes/gateways/bacs/class-wc-gateway-bacs.php:74
+#: includes/gateways/cheque/class-wc-gateway-cheque.php:54 includes/gateways/paypal/includes/settings-paypal.php:12 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:185 includes/shipping/flat-rate/includes/settings-flat-rate.php:12
+#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:69 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:52
 msgid "Enable/Disable"
 msgstr "Bật/Tắt"
 
-#: includes/emails/class-wc-email-cancelled-order.php:119
-#: includes/emails/class-wc-email-customer-completed-order.php:145
-#: includes/emails/class-wc-email-new-order.php:125
-#: includes/emails/class-wc-email.php:470
+#: includes/emails/class-wc-email-cancelled-order.php:119 includes/emails/class-wc-email-customer-completed-order.php:145 includes/emails/class-wc-email-new-order.php:125 includes/emails/class-wc-email.php:470
 msgid "Enable this email notification"
 msgstr "Bật thông báo qua email"
 
-#: includes/emails/class-wc-email-cancelled-order.php:123
-#: includes/emails/class-wc-email-new-order.php:129
+#: includes/emails/class-wc-email-cancelled-order.php:123 includes/emails/class-wc-email-new-order.php:129
 msgid "Recipient(s)"
 msgstr "Người nhận (một hoặc nhiều)"
 
-#: includes/emails/class-wc-email-cancelled-order.php:125
-#: includes/emails/class-wc-email-new-order.php:131
-msgid ""
-"Enter recipients (comma separated) for this email. Defaults to "
-"<code>%s</code>."
+#: includes/emails/class-wc-email-cancelled-order.php:125 includes/emails/class-wc-email-new-order.php:131
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
 msgstr "Thêm vào danh sách người nhận (ngăn cách bằng dấu phẩy) cho email này. Mặc định đến <code>%s</code>."
 
-#: includes/emails/class-wc-email-cancelled-order.php:130
-#: includes/emails/class-wc-email-customer-completed-order.php:149
-#: includes/emails/class-wc-email-new-order.php:136
+#: includes/emails/class-wc-email-cancelled-order.php:130 includes/emails/class-wc-email-customer-completed-order.php:149 includes/emails/class-wc-email-new-order.php:136
 msgid "Subject"
 msgstr "Tiêu đề"
 
-#: includes/emails/class-wc-email-cancelled-order.php:132
-#: includes/emails/class-wc-email-new-order.php:138
-msgid ""
-"This controls the email subject line. Leave blank to use the default "
-"subject: <code>%s</code>."
+#: includes/emails/class-wc-email-cancelled-order.php:132 includes/emails/class-wc-email-new-order.php:138
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
 msgstr "Điều chỉnh tiêu đề email. Bỏ trống để dùng tiêu đề mặc định: <code>%s</code>."
 
-#: includes/emails/class-wc-email-cancelled-order.php:137
-#: includes/emails/class-wc-email-customer-completed-order.php:156
-#: includes/emails/class-wc-email-new-order.php:143
+#: includes/emails/class-wc-email-cancelled-order.php:137 includes/emails/class-wc-email-customer-completed-order.php:156 includes/emails/class-wc-email-new-order.php:143
 msgid "Email Heading"
 msgstr "Đầu mục lớn email"
 
-#: includes/emails/class-wc-email-cancelled-order.php:139
-#: includes/emails/class-wc-email-new-order.php:145
-msgid ""
-"This controls the main heading contained within the email notification. "
-"Leave blank to use the default heading: <code>%s</code>."
+#: includes/emails/class-wc-email-cancelled-order.php:139 includes/emails/class-wc-email-new-order.php:145
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
 msgstr "Điều chỉnh nội dung đầu mục lớn bên trong thông báo email. Bỏ trống nếu sử dụng đầu mục mặc định: <code>%s</code>."
 
-#: includes/emails/class-wc-email-cancelled-order.php:144
-#: includes/emails/class-wc-email-customer-completed-order.php:177
-#: includes/emails/class-wc-email-customer-invoice.php:179
-#: includes/emails/class-wc-email-new-order.php:150
-#: includes/emails/class-wc-email.php:488
+#: includes/emails/class-wc-email-cancelled-order.php:144 includes/emails/class-wc-email-customer-completed-order.php:177 includes/emails/class-wc-email-customer-invoice.php:179 includes/emails/class-wc-email-new-order.php:150 includes/emails/class-wc-email.php:488
 msgid "Email type"
 msgstr "Kiểu email"
 
-#: includes/emails/class-wc-email-cancelled-order.php:146
-#: includes/emails/class-wc-email-customer-completed-order.php:179
-#: includes/emails/class-wc-email-customer-invoice.php:181
-#: includes/emails/class-wc-email-new-order.php:152
-#: includes/emails/class-wc-email.php:490
+#: includes/emails/class-wc-email-cancelled-order.php:146 includes/emails/class-wc-email-customer-completed-order.php:179 includes/emails/class-wc-email-customer-invoice.php:181 includes/emails/class-wc-email-new-order.php:152 includes/emails/class-wc-email.php:490
 msgid "Choose which format of email to send."
 msgstr "Chọn định dạng email gửi đi"
 
@@ -6691,9 +6414,7 @@ msgid "Completed order"
 msgstr "Đơn hàng đã hoàn thành"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:29
-msgid ""
-"Order complete emails are sent to customers when their orders are marked "
-"completed and usually indicate that their orders have been shipped."
+msgid "Order complete emails are sent to customers when their orders are marked completed and usually indicate that their orders have been shipped."
 msgstr "Đơn hàng hoàn thành email sẽ được gửi tới khách hàng khi đơn hàng của họ được đánh dấu hoàn thoành và thường chỉ ra rằng các đơn đặt hàng của họ đã được xuất xưởng."
 
 #: includes/emails/class-wc-email-customer-completed-order.php:31
@@ -6709,20 +6430,11 @@ msgid "Your order is complete - download your files"
 msgstr "Đơn hàng của bạn đã hoàn tất - tải tập tin của bạn về"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:42
-msgid ""
-"Your {site_title} order from {order_date} is complete - download your files"
+msgid "Your {site_title} order from {order_date} is complete - download your files"
 msgstr "Đơn hàng của bạn tại {site_title} từ ngày {order_date} đã hoàn tất - tải tập tin của bạn về"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:151
-#: includes/emails/class-wc-email-customer-completed-order.php:158
-#: includes/emails/class-wc-email-customer-completed-order.php:165
-#: includes/emails/class-wc-email-customer-completed-order.php:172
-#: includes/emails/class-wc-email-customer-invoice.php:153
-#: includes/emails/class-wc-email-customer-invoice.php:160
-#: includes/emails/class-wc-email-customer-invoice.php:167
-#: includes/emails/class-wc-email-customer-invoice.php:174
-#: includes/emails/class-wc-email.php:476
-#: includes/emails/class-wc-email.php:483
+#: includes/emails/class-wc-email-customer-completed-order.php:151 includes/emails/class-wc-email-customer-completed-order.php:158 includes/emails/class-wc-email-customer-completed-order.php:165 includes/emails/class-wc-email-customer-completed-order.php:172
+#: includes/emails/class-wc-email-customer-invoice.php:153 includes/emails/class-wc-email-customer-invoice.php:160 includes/emails/class-wc-email-customer-invoice.php:167 includes/emails/class-wc-email-customer-invoice.php:174 includes/emails/class-wc-email.php:476 includes/emails/class-wc-email.php:483
 msgid "Defaults to <code>%s</code>"
 msgstr "Mặc định thành <code>%s</code>"
 
@@ -6739,9 +6451,7 @@ msgid "Customer invoice"
 msgstr "Hóa đơn khách hàng"
 
 #: includes/emails/class-wc-email-customer-invoice.php:32
-msgid ""
-"Customer invoice emails can be sent to customers containing their order "
-"information and payment links."
+msgid "Customer invoice emails can be sent to customers containing their order information and payment links."
 msgstr "Email hóa đơn của khách hàng có thể được gửi đến khách hàng có chứa thông tin và thanh toán theo thứ tự liên kết của họ."
 
 #: includes/emails/class-wc-email-customer-invoice.php:37
@@ -6760,13 +6470,11 @@ msgstr "Đơn hàng của bạn tại {site_title} từ ngày {order_date}"
 msgid "Order {order_number} details"
 msgstr "Chi tiết đơn hàng {order_number}"
 
-#: includes/emails/class-wc-email-customer-invoice.php:151
-#: includes/emails/class-wc-email.php:474
+#: includes/emails/class-wc-email-customer-invoice.php:151 includes/emails/class-wc-email.php:474
 msgid "Email subject"
 msgstr "Tiêu đề email"
 
-#: includes/emails/class-wc-email-customer-invoice.php:158
-#: includes/emails/class-wc-email.php:481
+#: includes/emails/class-wc-email-customer-invoice.php:158 includes/emails/class-wc-email.php:481
 msgid "Email heading"
 msgstr "Phần đầu Email"
 
@@ -6783,9 +6491,7 @@ msgid "New account"
 msgstr "Tài khoản mới"
 
 #: includes/emails/class-wc-email-customer-new-account.php:36
-msgid ""
-"Customer \"new account\" emails are sent to the customer when a customer "
-"signs up via checkout or account pages."
+msgid "Customer \"new account\" emails are sent to the customer when a customer signs up via checkout or account pages."
 msgstr "Email tài khoản khách hàng mới được gửi tới khách hàng khi họ đăng ký trên trang thanh toán hoặc trang tài khoản."
 
 #: includes/emails/class-wc-email-customer-new-account.php:41
@@ -6817,9 +6523,7 @@ msgid "Processing order"
 msgstr "Đang xử lý đơn hàng"
 
 #: includes/emails/class-wc-email-customer-processing-order.php:29
-msgid ""
-"This is an order notification sent to customers containing their order "
-"details after payment."
+msgid "This is an order notification sent to customers containing their order details after payment."
 msgstr "Đây là một thông báo để gửi cho khách hàng có chứa chi tiết đặt hàng của họ sau khi thanh toán."
 
 #: includes/emails/class-wc-email-customer-processing-order.php:31
@@ -6835,9 +6539,7 @@ msgid "Reset password"
 msgstr "Đặt lại mật khẩu"
 
 #: includes/emails/class-wc-email-customer-reset-password.php:41
-msgid ""
-"Customer \"reset password\" emails are sent when customers reset their "
-"passwords."
+msgid "Customer \"reset password\" emails are sent when customers reset their passwords."
 msgstr "Khách hàng \"thiết lập lại mật khẩu\" các email được gửi khi khách hàng thiết lập lại mật khẩu của mình."
 
 #: includes/emails/class-wc-email-customer-reset-password.php:46
@@ -6876,8 +6578,7 @@ msgstr "HTML"
 msgid "Multipart"
 msgstr "Multipart"
 
-#: includes/emails/class-wc-email.php:547
-#: includes/emails/class-wc-email.php:571
+#: includes/emails/class-wc-email.php:547 includes/emails/class-wc-email.php:571
 msgid "Could not write to template file."
 msgstr "Không thể ghi vào tệp tin mẫu."
 
@@ -6902,9 +6603,7 @@ msgid "Delete template file"
 msgstr "Xóa file mẫu"
 
 #: includes/emails/class-wc-email.php:761
-msgid ""
-"This template has been overridden by your theme and can be found in: "
-"<code>%s</code>."
+msgid "This template has been overridden by your theme and can be found in: <code>%s</code>."
 msgstr "Giao diện này đã bị ghi đè bởi giao diện của bạn và có thể tìm thấy ở <code>%s</code>."
 
 #: includes/emails/class-wc-email.php:774
@@ -6912,9 +6611,7 @@ msgid "Copy file to theme"
 msgstr "Sao chép tập tin tới giao diện"
 
 #: includes/emails/class-wc-email.php:777
-msgid ""
-"To override and edit this email template copy <code>%s</code> to your theme "
-"folder: <code>%s</code>."
+msgid "To override and edit this email template copy <code>%s</code> to your theme folder: <code>%s</code>."
 msgstr "Để ghi đè và sửa đổi mẫu email này, chép <code>%s</code> vào thư mục giao diện của bạn: <code>%s</code>."
 
 #: includes/emails/class-wc-email.php:786
@@ -6938,43 +6635,22 @@ msgid "BACS"
 msgstr "BACS"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:32
-msgid ""
-"Allows payments by BACS, more commonly known as direct bank/wire transfer."
+msgid "Allows payments by BACS, more commonly known as direct bank/wire transfer."
 msgstr "Cho phép thành toán bằng BACS, tức chuyển khoản qua ngân hàng."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:76
 msgid "Enable Bank Transfer"
 msgstr "Bật chuyển khoản"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:80
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:60
-#: includes/gateways/cod/class-wc-gateway-cod.php:68
-#: includes/gateways/paypal/includes/settings-paypal.php:18
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:192
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:98
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:72
-#: includes/widgets/class-wc-widget-cart.php:32
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:30
-#: includes/widgets/class-wc-widget-layered-nav.php:82
-#: includes/widgets/class-wc-widget-price-filter.php:32
-#: includes/widgets/class-wc-widget-product-categories.php:44
-#: includes/widgets/class-wc-widget-product-search.php:30
-#: includes/widgets/class-wc-widget-product-tag-cloud.php:30
-#: includes/widgets/class-wc-widget-products.php:30
-#: includes/widgets/class-wc-widget-recent-reviews.php:30
-#: includes/widgets/class-wc-widget-recently-viewed.php:30
-#: includes/widgets/class-wc-widget-top-rated-products.php:32
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:80 includes/gateways/cheque/class-wc-gateway-cheque.php:60 includes/gateways/cod/class-wc-gateway-cod.php:68 includes/gateways/paypal/includes/settings-paypal.php:18 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:192
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:98 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:72 includes/widgets/class-wc-widget-cart.php:32 includes/widgets/class-wc-widget-layered-nav-filters.php:30 includes/widgets/class-wc-widget-layered-nav.php:82
+#: includes/widgets/class-wc-widget-price-filter.php:32 includes/widgets/class-wc-widget-product-categories.php:44 includes/widgets/class-wc-widget-product-search.php:30 includes/widgets/class-wc-widget-product-tag-cloud.php:30 includes/widgets/class-wc-widget-products.php:30
+#: includes/widgets/class-wc-widget-recent-reviews.php:30 includes/widgets/class-wc-widget-recently-viewed.php:30 includes/widgets/class-wc-widget-top-rated-products.php:32
 msgid "Title"
 msgstr "Tiêu đề"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:82
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:62
-#: includes/gateways/paypal/includes/settings-paypal.php:20
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:194
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:20
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:77
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:60
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:100
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:82 includes/gateways/cheque/class-wc-gateway-cheque.php:62 includes/gateways/paypal/includes/settings-paypal.php:20 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:194
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:20 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:77 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:60 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:100
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:74
 msgid "This controls the title which the user sees during checkout."
 msgstr "Điều chỉnh tựa đề để khách hàng thấy trong quá trình thanh toán."
@@ -6983,42 +6659,28 @@ msgstr "Điều chỉnh tựa đề để khách hàng thấy trong quá trình 
 msgid "Direct Bank Transfer"
 msgstr "Chuyển khoản ngân hàng"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:87
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:67
-#: includes/gateways/cod/class-wc-gateway-cod.php:75
-#: includes/gateways/paypal/includes/settings-paypal.php:25
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:199
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:87 includes/gateways/cheque/class-wc-gateway-cheque.php:67 includes/gateways/cod/class-wc-gateway-cod.php:75 includes/gateways/paypal/includes/settings-paypal.php:25 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:199
 #: includes/wc-template-functions.php:934
 msgid "Description"
 msgstr "Mô tả"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:89
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:69
-#: includes/gateways/cod/class-wc-gateway-cod.php:70
-msgid ""
-"Payment method description that the customer will see on your checkout."
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:89 includes/gateways/cheque/class-wc-gateway-cheque.php:69 includes/gateways/cod/class-wc-gateway-cod.php:70
+msgid "Payment method description that the customer will see on your checkout."
 msgstr "Mô tả phương thức thanh toán để khách hàng thấy trong phần thanh toán của bạn."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:90
-msgid ""
-"Make your payment directly into our bank account. Please use your Order ID "
-"as the payment reference. Your order won't be shipped until the funds have "
-"cleared in our account."
+msgid "Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won't be shipped until the funds have cleared in our account."
 msgstr "Thực hiện thanh toán vào ngay tài khoản ngân hàng của chúng tôi. Vui lòng sử dụng ID Đơn hàng của bạn như một phần để tham khảo khi thanh toán. Đơn hàng của bạn sẽ không được vận chuyển cho tới khi tiền vào tài khoản của chúng tôi."
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:94
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:74
-#: includes/gateways/cod/class-wc-gateway-cod.php:82
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:94 includes/gateways/cheque/class-wc-gateway-cheque.php:74 includes/gateways/cod/class-wc-gateway-cod.php:82
 msgid "Instructions"
 msgstr "Hướng dẫn"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:96
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:76
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:96 includes/gateways/cheque/class-wc-gateway-cheque.php:76
 msgid "Instructions that will be added to the thank you page and emails."
 msgstr "Các hướng dẫn sẽ được thêm vào trang cảm ơn và email."
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:118
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:274
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:118 includes/gateways/bacs/class-wc-gateway-bacs.php:274
 msgid "Sort Code"
 msgstr "Sắp xếp mã"
 
@@ -7030,8 +6692,7 @@ msgstr "Chi tiết tài khoản"
 msgid "Account Name"
 msgstr "Tên tài khoản"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:129
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:294
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:129 includes/gateways/bacs/class-wc-gateway-bacs.php:294
 msgid "Account Number"
 msgstr "Số tài khoản"
 
@@ -7039,8 +6700,7 @@ msgstr "Số tài khoản"
 msgid "Bank Name"
 msgstr "Tên ngân hàng"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:132
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:302
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:132 includes/gateways/bacs/class-wc-gateway-bacs.php:302
 msgid "IBAN"
 msgstr "IBAN"
 
@@ -7084,8 +6744,7 @@ msgstr "IFSC"
 msgid "Branch Sort"
 msgstr "Chi nhánh"
 
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:384
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:389
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:384 includes/gateways/bacs/class-wc-gateway-bacs.php:389
 msgid "Bank Code"
 msgstr "Mã ngân hàng"
 
@@ -7102,10 +6761,7 @@ msgid "Cheque"
 msgstr "Chi phiếu"
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:28
-msgid ""
-"Allows cheque payments. Why would you take cheques in this day and age? Well"
-" you probably wouldn't but it does allow you to make test purchases for "
-"testing order emails and the 'success' pages etc."
+msgid "Allows cheque payments. Why would you take cheques in this day and age? Well you probably wouldn't but it does allow you to make test purchases for testing order emails and the 'success' pages etc."
 msgstr "Cho phép thanh toán bằng Chi phiếu. Tại sao bạn còn cần đến thanh toán Chi phiếu vào ngày nay? Vâng, dĩ nhiên hầu như không cần nhưng chúng tôi vẫn cho phép bạn thanh toán thử để kiểm tra email đơn hàng và trang thanh toán thành công v.v..."
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:56
@@ -7117,17 +6773,14 @@ msgid "Cheque Payment"
 msgstr "Thanh toán bằng chi phiếu"
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:70
-msgid ""
-"Please send your cheque to Store Name, Store Street, Store Town, Store State"
-" / County, Store Postcode."
+msgid "Please send your cheque to Store Name, Store Street, Store Town, Store State / County, Store Postcode."
 msgstr "Vui lòng gửi chi phiếu của bạn đến Store Name, Store Street, Store Town, Store State / County, Store Postcode."
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:116
 msgid "Awaiting cheque payment"
 msgstr "Đang chờ thanh toán séc"
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:26
-#: includes/gateways/cod/class-wc-gateway-cod.php:71
+#: includes/gateways/cod/class-wc-gateway-cod.php:26 includes/gateways/cod/class-wc-gateway-cod.php:71
 msgid "Cash on Delivery"
 msgstr "Trả tiền mặt khi nhận hàng"
 
@@ -7147,8 +6800,7 @@ msgstr "Bật Trả tiền mặt khi nhận hàng"
 msgid "Payment method description that the customer will see on your website."
 msgstr "Mô tả phương thức thanh toán sẽ hiện trên website của bạn."
 
-#: includes/gateways/cod/class-wc-gateway-cod.php:78
-#: includes/gateways/cod/class-wc-gateway-cod.php:85
+#: includes/gateways/cod/class-wc-gateway-cod.php:78 includes/gateways/cod/class-wc-gateway-cod.php:85
 msgid "Pay with cash upon delivery."
 msgstr "Trả tiền mặt khi giao hàng"
 
@@ -7161,9 +6813,7 @@ msgid "Enable for shipping methods"
 msgstr "Bật các phương thức giao hàng"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:94
-msgid ""
-"If COD is only available for certain methods, set it up here. Leave blank to"
-" enable for all methods."
+msgid "If COD is only available for certain methods, set it up here. Leave blank to enable for all methods."
 msgstr "Nếu phương thức Thanh Toán Khi Nhận Hàng chỉ xảy ra trong trường hợp nào đó, thiết lập ở đây. Bỏ trống nếu muốn bật tất cả các phương thức."
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:98
@@ -7186,15 +6836,12 @@ msgstr "Thực hiện thanh toán khi giao hàng"
 msgid "Proceed to PayPal"
 msgstr "Tiến hành với PayPal"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:27
-#: includes/gateways/paypal/includes/settings-paypal.php:21
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:27 includes/gateways/paypal/includes/settings-paypal.php:21
 msgid "PayPal"
 msgstr "PayPal"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:28
-msgid ""
-"PayPal standard works by sending customers to PayPal where they can enter "
-"their payment information."
+msgid "PayPal standard works by sending customers to PayPal where they can enter their payment information."
 msgstr "PayPal hoạt động bằng cách gửi khách hàng tới PayPal nơi họ có thể nhập các thông tin thanh toán của họ."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:84
@@ -7226,8 +6873,7 @@ msgid "Validation error: PayPal amounts do not match (gross %s)."
 msgstr "Quá trình xác nhận bị lỗi: lượng tiền PayPal không trùng khớp (tổng số %s)"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:160
-msgid ""
-"Validation error: PayPal IPN response from a different email address (%s)."
+msgid "Validation error: PayPal IPN response from a different email address (%s)."
 msgstr "Quá trình xác nhận bị lỗi: hồi đáp IPN PayPal đến từ một địa chỉ email khác (%s)"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:183
@@ -7238,9 +6884,7 @@ msgstr "Đã hoàn tất thanh toán IPN"
 msgid "Payment pending: %s"
 msgstr "Đang xử lý thanh toán: %s"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:202
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:238
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:252
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:202 includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:238 includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:252
 msgid "Payment %s via IPN."
 msgstr "Thanh toán %s qua IPN."
 
@@ -7257,8 +6901,7 @@ msgid "Payment for order #%s reversed"
 msgstr "Thanh toán cho đơn hàng #%s đảo ngược"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:256
-msgid ""
-"Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
+msgid "Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
 msgstr "Order %s đã bị đánh dấu là đang ngưng vì một thay đổi - Mã lý do tren PayPal: %s"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:266
@@ -7266,9 +6909,7 @@ msgid "Reversal cancelled for order #%s"
 msgstr "Đảo ngược hủy đơn hàng #%s"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:267
-msgid ""
-"Order #%s has had a reversal cancelled. Please check the status of payment "
-"and update the order status accordingly here: %s"
+msgid "Order #%s has had a reversal cancelled. Please check the status of payment and update the order status accordingly here: %s"
 msgstr "Đơn hàng #%s đã có một sự đảo ngược hủy. Vui lòng kiểm tra tình trạng thanh toán và cập nhật tình trạng đơn hàng phù hợp tại đây: %s"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:75
@@ -7279,8 +6920,7 @@ msgstr "Quá trình xác nhận bị lỗi: lượng tiền PayPal không trùng
 msgid "PDT payment completed"
 msgstr "Đã hoàn tất thanh toán PDT"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php:180
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php:261
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php:180 includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php:261
 msgid "Shipping via %s"
 msgstr "Giao hàng qua %s"
 
@@ -7288,15 +6928,12 @@ msgstr "Giao hàng qua %s"
 msgid "Enable PayPal standard"
 msgstr "Bật chuẩn PayPal"
 
-#: includes/gateways/paypal/includes/settings-paypal.php:28
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:201
+#: includes/gateways/paypal/includes/settings-paypal.php:28 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:201
 msgid "This controls the description which the user sees during checkout."
 msgstr "Điều chỉnh mô tả mà khách hàng có thể thấy trong quá trình thanh toán."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:29
-msgid ""
-"Pay via PayPal; you can pay with your credit card if you don't have a PayPal"
-" account."
+msgid "Pay via PayPal; you can pay with your credit card if you don't have a PayPal account."
 msgstr "Trả thông qua Paypal; bạn có thể thanh toán với thẻ tín dụng nếu bạn không có tài khoản PayPal."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:32
@@ -7304,9 +6941,7 @@ msgid "PayPal Email"
 msgstr "Địa chỉ email Paypal"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:34
-msgid ""
-"Please enter your PayPal email address; this is needed in order to take "
-"payment."
+msgid "Please enter your PayPal email address; this is needed in order to take payment."
 msgstr "Vui lòng điền địa chỉ email PayPal của bạn; điều này là cần thiết để thanh toán đơn hàng."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:40
@@ -7318,9 +6953,7 @@ msgid "Enable PayPal sandbox"
 msgstr "Bật vùng thử nghiệm PayPal"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:44
-msgid ""
-"PayPal sandbox can be used to test payments. Sign up for a developer account"
-" <a href=\"%s\">here</a>."
+msgid "PayPal sandbox can be used to test payments. Sign up for a developer account <a href=\"%s\">here</a>."
 msgstr "Vùng thử nghiệm Paypal có thể được dùng để thử các thanh toán. Đăng ký một tài khoản phát triển tại <a href=\"%s\">đây</a>."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:47
@@ -7344,10 +6977,7 @@ msgid "Receiver Email"
 msgstr "Email người nhận"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:61
-msgid ""
-"If your main PayPal email differs from the PayPal email entered above, input"
-" your main receiver email for your PayPal account here. This is used to "
-"validate IPN requests."
+msgid "If your main PayPal email differs from the PayPal email entered above, input your main receiver email for your PayPal account here. This is used to validate IPN requests."
 msgstr "Nếu email PayPal chính của bạn khác với email PayPal đã điền ở trên, xin hãy nhập địa chỉ email người nhận chính trong tài khoản PayPal của bạn ở đây. Việc này cần để xác nhận các yêu cầu IPN."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:67
@@ -7355,10 +6985,7 @@ msgid "PayPal Identity Token"
 msgstr "Token Xác Minh PayPal"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:69
-msgid ""
-"Optionally enable \"Payment Data Transfer\" (Profile > Website Payment "
-"Preferences) and then copy your identity token here. This will allow "
-"payments to be verified without the need for PayPal IPN."
+msgid "Optionally enable \"Payment Data Transfer\" (Profile > Website Payment Preferences) and then copy your identity token here. This will allow payments to be verified without the need for PayPal IPN."
 msgstr "Tùy chọn bật \"Payment Data Transfer\" (Profile > Website Payment Preferences) và sau đó sao chép token xác minh của bạn ở đây. Điều này sẽ cho phép các thanh toán được xác minh mà không cần đến PayPal IPN."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:75
@@ -7366,10 +6993,7 @@ msgid "Invoice Prefix"
 msgstr "Tiền tố hóa đơn"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:77
-msgid ""
-"Please enter a prefix for your invoice numbers. If you use your PayPal "
-"account for multiple stores ensure this prefix is unique as PayPal will not "
-"allow orders with the same invoice number."
+msgid "Please enter a prefix for your invoice numbers. If you use your PayPal account for multiple stores ensure this prefix is unique as PayPal will not allow orders with the same invoice number."
 msgstr "Vui lòng nhập một tiền tố vào số hóa đơn của bạn. Nếu bạn sử dụng tài khoản PayPal của bạn cho nhiều  cửa hàng, hãy chắc chắn rằng tiền tố này là duy nhất vì PayPal sẽ không chấp nhận các đơn hàng trùng số hóa đơn."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:82
@@ -7381,9 +7005,7 @@ msgid "Send shipping details to PayPal instead of billing."
 msgstr "Gửi các thông tin giao nhận đến PayPal thay cho hóa đơn."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:85
-msgid ""
-"PayPal allows us to send one address. If you are using PayPal for shipping "
-"labels you may prefer to send the shipping address rather than billing."
+msgid "PayPal allows us to send one address. If you are using PayPal for shipping labels you may prefer to send the shipping address rather than billing."
 msgstr "PayPal cho phép chúng tôi gửi một địa chỉ. Nếu bạn đang sử dụng PayPal để cung cấp những nhãn bạn có thể thích để gửi địa chỉ vận chuyển chứ không phải thanh toán."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:89
@@ -7391,15 +7013,11 @@ msgid "Address Override"
 msgstr "Đè địa chỉ"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:91
-msgid ""
-"Enable \"address_override\" to prevent address information from being "
-"changed."
+msgid "Enable \"address_override\" to prevent address information from being changed."
 msgstr "Bật \"address_override\" để ngăn không cho thay đổi thông tin địa chỉ."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:92
-msgid ""
-"PayPal verifies addresses therefore this setting can cause errors (we "
-"recommend keeping it disabled)."
+msgid "PayPal verifies addresses therefore this setting can cause errors (we recommend keeping it disabled)."
 msgstr "PayPal sẽ xác minh địa chỉ cho nên thiết lập này có thể gây lỗi (chúng tôi khuyến cáo nên tắt nó đi)."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:96
@@ -7407,9 +7025,7 @@ msgid "Payment Action"
 msgstr "Hoạt động thanh toán"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:99
-msgid ""
-"Choose whether you wish to capture funds immediately or authorize payment "
-"only."
+msgid "Choose whether you wish to capture funds immediately or authorize payment only."
 msgstr "Chọn xem bạn muốn lấy tiền quỹ ngay lập tức hoặc chỉ cho phép thanh toán - và lấy quỹ sau."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:103
@@ -7425,15 +7041,10 @@ msgid "Page Style"
 msgstr "Kiểu trang"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:110
-msgid ""
-"Optionally enter the name of the page style you wish to use. These are "
-"defined within your PayPal account."
+msgid "Optionally enter the name of the page style you wish to use. These are defined within your PayPal account."
 msgstr "Tùy chọn nhập tên kiểu trang mà bạn muốn sử dụng. Những thứ này đã được định nghĩa bên trong tài khoản PayPal của bạn."
 
-#: includes/gateways/paypal/includes/settings-paypal.php:113
-#: includes/gateways/paypal/includes/settings-paypal.php:126
-#: includes/gateways/paypal/includes/settings-paypal.php:134
-#: includes/gateways/paypal/includes/settings-paypal.php:142
+#: includes/gateways/paypal/includes/settings-paypal.php:113 includes/gateways/paypal/includes/settings-paypal.php:126 includes/gateways/paypal/includes/settings-paypal.php:134 includes/gateways/paypal/includes/settings-paypal.php:142
 msgid "Optional"
 msgstr "Tùy chọn thêm"
 
@@ -7442,18 +7053,14 @@ msgid "API Credentials"
 msgstr "Giấy chứng nhận API"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:118
-msgid ""
-"Enter your PayPal API credentials to process refunds via PayPal. Learn how "
-"to access your PayPal API Credentials %shere%s."
+msgid "Enter your PayPal API credentials to process refunds via PayPal. Learn how to access your PayPal API Credentials %shere%s."
 msgstr "Nhập giấy chứng nhận API PayPal của bạn để tiến hành hoàn tiền thông qua PayPal. Tìm hiểu cách thức truy cập giấy chứng nhận API PayPal của bạn ở %sđây%s."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:121
 msgid "API Username"
 msgstr "Tên đăng nhập API"
 
-#: includes/gateways/paypal/includes/settings-paypal.php:123
-#: includes/gateways/paypal/includes/settings-paypal.php:131
-#: includes/gateways/paypal/includes/settings-paypal.php:139
+#: includes/gateways/paypal/includes/settings-paypal.php:123 includes/gateways/paypal/includes/settings-paypal.php:131 includes/gateways/paypal/includes/settings-paypal.php:139
 msgid "Get your API credentials from PayPal."
 msgstr "Lấy giấy chứng nhận API từ PayPal"
 
@@ -7465,60 +7072,43 @@ msgstr "Mật khẩu API"
 msgid "API Signature"
 msgstr "Chữ ký API"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:90
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:174
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:317
-msgid ""
-"Please make sure your card details have been entered correctly and that your"
-" browser supports JavaScript."
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:90 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:174 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:317
+msgid "Please make sure your card details have been entered correctly and that your browser supports JavaScript."
 msgstr "Vui lòng chắc chắn rằng chi tiết trên thẻ của bạn đã được nhập chính xác và trình duyệt web của bạn có hỗ trợ JavaScript."
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:93
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:177
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:320
-msgid ""
-"Developers: Please make sure that you're including jQuery and there are no "
-"JavaScript errors on the page."
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:93 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:177 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:320
+msgid "Developers: Please make sure that you're including jQuery and there are no JavaScript errors on the page."
 msgstr "Nhà phát triển: Vui lòng chắc chắn rằng bạn đang gồm cả jQuery và không có lỗi JavaScript nào trên trang web."
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:113
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:197
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:113 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:197
 msgid "Error creating user in Simplify Commerce."
 msgstr "Lỗi tạo lập người dùng trong Simplify Commerce."
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:168
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:274
-msgid ""
-"Sorry, the minimum allowed order total is 0.50 to use this payment method."
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:168 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:274
+msgid "Sorry, the minimum allowed order total is 0.50 to use this payment method."
 msgstr "Xin lỗi bạn, tổng hóa đơn cho phép tối thiểu để dùng phương thức thanh toán này là 0.50."
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:271
 msgid "%s - Subscription for \"%s\""
 msgstr "%s - Tiền trả trước cho \"%s\""
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:271
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:374
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:271 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:374
 msgid "(Order #%s)"
 msgstr "(Đơn hàng #%s)"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:280
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:379
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:280 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:379
 msgid "Customer not found"
 msgstr "Không tìm thấy khách hàng nào"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:303
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:402
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:486
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:303 includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:402 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:486
 msgid "Simplify payment approved (ID: %s, Auth Code: %s)"
 msgstr "Đã chấp nhận thanh toán Simplify (ID: %s, Mã xác nhận: %s)"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:307
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:349
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:307 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:349
 msgid "Simplify payment declined"
 msgstr "Không nhận thanh toán Simplify"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:309
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:351
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:309 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:351
 msgid "Payment was declined - please try another card."
 msgstr "Thanh toán đã bị từ chối - vui lòng thử thẻ khác."
 
@@ -7534,8 +7124,7 @@ msgstr "Thanh toán đã bị từ chối - khách hàng cần thử thẻ khác
 msgid "Simplify Transaction Failed (%s)"
 msgstr "Giao dịch Simplify không thành công (%s)"
 
-#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:451
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:458
+#: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:451 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:458
 msgid "Payment was declined by Simplify Commerce."
 msgstr "Thanh toán bị từ chối bởi Simplify Commerce."
 
@@ -7544,9 +7133,7 @@ msgid "Simplify Commerce"
 msgstr "Simplify Commerce"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:25
-msgid ""
-"Take payments via Simplify Commerce - uses simplify.js to create card tokens"
-" and the Simplify Commerce SDK. Requires SSL when sandbox is disabled."
+msgid "Take payments via Simplify Commerce - uses simplify.js to create card tokens and the Simplify Commerce SDK. Requires SSL when sandbox is disabled."
 msgstr "Thực hiện thanh toán thông qua Simplify Commerce - dùng simplify.js để tạo thẻ token và Simplify Commerce SDK. Yêu cầu SSL khi vùng thử nghiệm bị vô hiệu hóa."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:91
@@ -7557,13 +7144,8 @@ msgstr "Simplify Commerce bởi Mastercard"
 msgid "Getting started"
 msgstr "Bắt đầu"
 
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:97
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:103
-msgid ""
-"Simplify Commerce is your merchant account and payment gateway all rolled "
-"into one. Choose Simplify Commerce as your WooCommerce payment gateway to "
-"get access to your money quickly with a powerful, secure payment engine "
-"backed by MasterCard."
+#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:97 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:103
+msgid "Simplify Commerce is your merchant account and payment gateway all rolled into one. Choose Simplify Commerce as your WooCommerce payment gateway to get access to your money quickly with a powerful, secure payment engine backed by MasterCard."
 msgstr "Simplify Commerce là tài khoản thương nhân và cổng thanh toán tất cả trong một của bạn. Chọn lựa Simplify Commerce như một cổng thanh toán cho WooCommerce của bạn để có thể truy cập đến túi tiền của bạn một cách nhanh chóng với bộ máy thanh toán bảo mật và mạnh mẽ được hậu thuẫn bởi MasterCard."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:99
@@ -7575,9 +7157,7 @@ msgid "Learn more"
 msgstr "Tìm hiểu thêm"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:146
-msgid ""
-"Simplify Commerce Error: Simplify commerce requires PHP 5.3 and above. You "
-"are using version %s."
+msgid "Simplify Commerce Error: Simplify commerce requires PHP 5.3 and above. You are using version %s."
 msgstr "Lỗi Simplify Commerce: Simplify Commerce yêu cầu PHP 5.3 trở lên. Bạn đang dùng phiên bản %s."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:151
@@ -7585,11 +7165,7 @@ msgid "Simplify Commerce Error: Please enter your public and private keys"
 msgstr "Lỗi Simplify Commerce: Vui lòng nhập khóa riêng tư và công cộng của bạn."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:156
-msgid ""
-"Simplify Commerce is enabled, but the <a href=\"%s\">force SSL option</a> is"
-" disabled; your checkout may not be secure! Please enable SSL and ensure "
-"your server has a valid SSL certificate - Simplify Commerce will only work "
-"in sandbox mode."
+msgid "Simplify Commerce is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate - Simplify Commerce will only work in sandbox mode."
 msgstr "Simplify Commerce đã được kích hoạt, nhưng <a href=\"%s\">tùy chọn bắt buộc SSL</a> đã bị vô hiệu hóa; các thanh toán của bạn có thể không được bảo vệ! Vui lòng bật SSL và chắc rằng máy chủ của bạn có một chứng chỉ SSL còn hiệu lực - Simplify Commerce hiện sẽ chỉ hoạt động trong chế độ chạy thử."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:186
@@ -7610,12 +7186,8 @@ msgstr "Bật Hosted Payments"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:209
 msgid ""
-"Standard will display the credit card fields on your store (SSL required). "
-"%1$s Hosted Payments will display a Simplify Commerce modal dialog on your "
-"store (if SSL) or will redirect the customer to Simplify Commerce hosted "
-"page (if not SSL). %1$s Note: Hosted Payments need a new API Key pair with "
-"the hosted payments flag selected. %2$sFor more details check the Simplify "
-"Commerce docs%3$s."
+"Standard will display the credit card fields on your store (SSL required). %1$s Hosted Payments will display a Simplify Commerce modal dialog on your store (if SSL) or will redirect the customer to Simplify Commerce hosted page (if not SSL). %1$s Note: Hosted Payments need a new API Key pair with the "
+"hosted payments flag selected. %2$sFor more details check the Simplify Commerce docs%3$s."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:213
@@ -7639,18 +7211,14 @@ msgid "Enable Sandbox Mode"
 msgstr "Kích hoạt chế độ chạy thử"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:227
-msgid ""
-"Place the payment gateway in sandbox mode using sandbox API keys (real "
-"payments will not be taken)."
+msgid "Place the payment gateway in sandbox mode using sandbox API keys (real payments will not be taken)."
 msgstr "Đặt cổng thanh toán ở chế độ chạy thử sử dụng các khóa API sandbox (thanh toán thực sẽ không được thực hiện)"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:231
 msgid "Sandbox Public Key"
 msgstr "Khóa Sandbox Công Khai"
 
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:233
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:240
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:247
+#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:233 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:240 includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:247
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:254
 msgid "Get your API keys from your Simplify account: Settings > API Keys."
 msgstr "Lấy các khóa API từ tài khoản Simplify của bạn: Settings > API Keys."
@@ -7687,19 +7255,12 @@ msgstr "không có hiệu lực"
 msgid "%s - Order #%s"
 msgstr "%s - Đơn hàng #%s"
 
-#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:412
-#: templates/emails/admin-new-order.php:22
-#: templates/emails/customer-completed-order.php:22
-#: templates/emails/customer-invoice.php:26
-#: templates/emails/customer-note.php:26
-#: templates/emails/customer-processing-order.php:22
+#: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:412 templates/emails/admin-new-order.php:22 templates/emails/customer-completed-order.php:22 templates/emails/customer-invoice.php:26 templates/emails/customer-note.php:26 templates/emails/customer-processing-order.php:22
 msgid "Order #%s"
 msgstr "Đơn hàng #%s"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:429
-msgid ""
-"Thank you for your order, please click the button below to pay with credit "
-"card using Simplify Commerce by MasterCard."
+msgid "Thank you for your order, please click the button below to pay with credit card using Simplify Commerce by MasterCard."
 msgstr "Cảm ơn vì đơn hàng của bạn, vui lòng bấm vào nút bên dưới để sử dụng thanh toán bằng cách sử dụng Simplify Commerce bởi MasterCard."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:438
@@ -7714,8 +7275,7 @@ msgstr "Hủy đơn hàng &amp; khôi phục giỏ hàng"
 msgid "Refund was declined."
 msgstr "Tiền trả lại đã bị từ chối."
 
-#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:33
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:21
+#: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:33 includes/shipping/flat-rate/includes/settings-flat-rate.php:21
 msgid "Flat Rate"
 msgstr "Tỷ lệ cố định"
 
@@ -7727,8 +7287,7 @@ msgstr "Tỷ lệ cố định cho phép bạn áp dụng một mức chuẩn đ
 msgid "Costs"
 msgstr "Các chi phí"
 
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:17
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:108
+#: includes/shipping/flat-rate/includes/html-extra-costs.php:17 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:108
 msgid "Cost"
 msgstr "Chi phí"
 
@@ -7736,32 +7295,24 @@ msgstr "Chi phí"
 msgid "Cost, excluding tax."
 msgstr "Chi phí, không gồm thuế"
 
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:18
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:116
+#: includes/shipping/flat-rate/includes/html-extra-costs.php:18 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:116
 msgid "Handling Fee"
 msgstr "Phí bốc xếp"
 
 #: includes/shipping/flat-rate/includes/html-extra-costs.php:18
-msgid ""
-"Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%."
+msgid "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%."
 msgstr "Phí không bao gồm thuế. Gõ vào một số lượng, VD: 2.500.000, hoặc một tỉ lệ, VD: 5%."
 
 #: includes/shipping/flat-rate/includes/html-extra-costs.php:24
 msgid "Any class"
 msgstr "Loại bất kỳ"
 
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:25
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:26
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:108
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:121
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:129
-#: templates/order/order-details.php:198 templates/order/order-details.php:217
-#: templates/single-product/meta.php:26
+#: includes/shipping/flat-rate/includes/html-extra-costs.php:25 includes/shipping/flat-rate/includes/html-extra-costs.php:26 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:108 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:121
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:129 templates/order/order-details.php:198 templates/order/order-details.php:217 templates/single-product/meta.php:26
 msgid "N/A"
 msgstr "N/A"
 
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:44
-#: includes/shipping/flat-rate/includes/html-extra-costs.php:79
+#: includes/shipping/flat-rate/includes/html-extra-costs.php:44 includes/shipping/flat-rate/includes/html-extra-costs.php:79
 msgid "Select a class&hellip;"
 msgstr "Chọn loại hình giao nhận&hellip;"
 
@@ -7777,55 +7328,37 @@ msgstr "Xóa phí đã chọn"
 msgid "Delete the selected rates?"
 msgstr "Xóa những phí đã chọn?"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:14
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:54
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:14 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:54
 msgid "Enable this shipping method"
 msgstr "Bật phương thức giao nhận này"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:18
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:75
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:58
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:18 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:75 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:58
 msgid "Method Title"
 msgstr "Tên phương thức"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:25
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:65
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:25 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:65
 msgid "Availability"
 msgstr "Khả dụng"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:30
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:87
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:139
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:92
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:30 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:87 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:139 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:92
 msgid "All allowed countries"
 msgstr "Tất cả các quốc gia được cho phép"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:31
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:35
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:88
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:92
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:140
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:144
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:93
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:97
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:31 includes/shipping/flat-rate/includes/settings-flat-rate.php:35 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:88 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:92
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:140 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:144 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:93 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:97
 msgid "Specific Countries"
 msgstr "Quốc gia riêng"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:42
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:99
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:83
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:151
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:42 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:99 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:83 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:151
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:104
 msgid "Select some countries"
 msgstr "Chọn quốc gia"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:46
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:87
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:46 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:87
 msgid "Tax Status"
 msgstr "Tình trạng thuế"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:51
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:92
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:51 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:92
 msgid "Taxable"
 msgstr "Thuế"
 
@@ -7842,40 +7375,31 @@ msgid "Additional Costs"
 msgstr "Phụ phí"
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:66
-msgid ""
-"Additional costs can be added below - these will all be added to the per-"
-"order cost above."
+msgid "Additional costs can be added below - these will all be added to the per-order cost above."
 msgstr "Các phụ phí có thể được thêm vào dưới đây - tất cả sẽ được thêm vào phí của mỗi đơn hàng phía trên."
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:69
 msgid "Costs Added..."
 msgstr "Chi phí tính thêm trên"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:74
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:102
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:74 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:102
 msgid "Per Order - charge shipping for the entire order as a whole"
 msgstr "Theo mỗi đơn hàng - tính phí giao nhận cho toàn bộ đơn hàng"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:75
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:103
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:75 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:103
 msgid "Per Item - charge shipping for each item individually"
 msgstr "Theo mỗi sản phẩm - tính phí giao nhận cho mỗi sản phẩm riêng lẻ"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:76
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:104
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:76 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:104
 msgid "Per Class - charge shipping for each shipping class in an order"
 msgstr "Theo mỗi loại hình - tính phí giao nhận cho mỗi loại hình giao nhận trong đơn hàng"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:83
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:124
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:83 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:124
 msgid "Minimum Handling Fee"
 msgstr "Phí bốc xếp tối thiểu"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:86
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:126
-msgid ""
-"Enter a minimum fee amount. Fee's less than this will be increased. Leave "
-"blank to disable."
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:86 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:126
+msgid "Enter a minimum fee amount. Fee's less than this will be increased. Leave blank to disable."
 msgstr "Gõ vào lượng phí tối thiểu. Phí nhỏ hơn số này sẽ được tăng lên cho bằng. Bỏ trống để vô hiệu hóa."
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:91
@@ -7883,9 +7407,7 @@ msgid "Add-on Rates"
 msgstr "Add-on Rates"
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:93
-msgid ""
-"Add-on rates are extra shipping options with additional costs (based on the "
-"flat rate)."
+msgid "Add-on rates are extra shipping options with additional costs (based on the flat rate)."
 msgstr "Add-on rates are extra shipping options with additional costs (based on the flat rate)."
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:96
@@ -7893,21 +7415,14 @@ msgid "Rates"
 msgstr "Giá"
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:98
-msgid ""
-"One per line: Option Name | Additional Cost [+- Percents] | Per Cost Type "
-"(order, class, or item) Example: <code>Priority Mail | 6.95 [+ 0.2%] | "
-"order</code>."
+msgid "One per line: Option Name | Additional Cost [+- Percents] | Per Cost Type (order, class, or item) Example: <code>Priority Mail | 6.95 [+ 0.2%] | order</code>."
 msgstr "Một trong mỗi dòng: Lựa chọn Tên | Chi phí khác [+ - phần trăm] | Trên mỗi loại chi phí (theo thứ tự, lớp, hoặc vật phẩm) Ví dụ: <code> Mail Priority | 6.95 [+ 0,2%] | đơn hàng </ code>."
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:101
-msgid ""
-"Option Name | Additional Cost [+- Percents%] | Per Cost Type (order, class, "
-"or item)"
+msgid "Option Name | Additional Cost [+- Percents%] | Per Cost Type (order, class, or item)"
 msgstr "Tên tùy ý | Phụ phí [+ - phần trăm] | Tính trên mỗi (đơn hàng, loại hình giao nhận, hoặc sản phẩm)"
 
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:32
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:78
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:137
+#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:32 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:78 includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:137
 msgid "Free Shipping"
 msgstr "Miễn phí giao nhận"
 
@@ -7915,9 +7430,7 @@ msgstr "Miễn phí giao nhận"
 msgid "Enable Free Shipping"
 msgstr "Bật giao hàng miễn phí"
 
-#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:82
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:134
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:87
+#: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:82 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:134 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:87
 msgid "Method availability"
 msgstr "Phương thức hiện có tại"
 
@@ -7946,13 +7459,10 @@ msgid "Minimum Order Amount"
 msgstr "Giá trị đơn hàng tối thiểu"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:119
-msgid ""
-"Users will need to spend this amount to get free shipping (if enabled "
-"above)."
+msgid "Users will need to spend this amount to get free shipping (if enabled above)."
 msgstr "Giá trị đơn hàng tối thiểu khách hàng cần phải mua để được vẫn chuyển miễn phí (nếu đã bật ở trên)"
 
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:32
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:61
+#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:32 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:61
 msgid "International Delivery"
 msgstr "Giao hàng quốc tế"
 
@@ -7981,23 +7491,18 @@ msgid "Cost excluding tax. Enter an amount, e.g. 2.50. Default is 0"
 msgstr "Phí chưa bao gồm thuế. Nhập vào lượng tiền, VD: 2.500. Mặc định là 0"
 
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:118
-msgid ""
-"Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. "
-"Leave blank to disable."
+msgid "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. Leave blank to disable."
 msgstr "Phí không bao gồm thuế. Nhập vào 1 số, ví dụ: 2.50 hoặc phần trăm, ví dụ: 5%. Để trống nếu không sử dụng."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:24
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:101
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:24 includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:101
 msgid "Local Delivery"
 msgstr "Giao hàng tại địa phương"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:25
-msgid ""
-"Local delivery is a simple shipping method for delivering orders locally."
+msgid "Local delivery is a simple shipping method for delivering orders locally."
 msgstr "Giao hàng nội thành là phương án mua hàng đơn giản dành cho các đơn hàng tại địa phương."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:92
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:66
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:92 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:66
 msgid "Enable"
 msgstr "Bật"
 
@@ -8030,38 +7535,27 @@ msgid "Delivery Fee"
 msgstr "Phí giao hàng"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:120
-msgid ""
-"What fee do you want to charge for local delivery, disregarded if you choose"
-" free. Leave blank to disable."
+msgid "What fee do you want to charge for local delivery, disregarded if you choose free. Leave blank to disable."
 msgstr "Phí bạn muốn thu thêm đối với phương thức mua hàng trực tiếp, bò qua nếu bạn chọn miễn phí. Bỏ trống để vô hiệu hóa."
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:126
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:79
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:126 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:79
 msgid "Allowed Zip/Post Codes"
 msgstr "Cho phép mã bưu điện"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:128
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:81
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:128 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:81
 msgid "What zip/post codes are available for local pickup?"
 msgstr "Những mã bưu điện có sẵn cho địa phương?"
 
-#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
-msgid ""
-"Separate codes with a comma. Accepts wildcards, e.g. <code>P*</code> will "
-"match a postcode of PE30. Also accepts a pattern, e.g. <code>NG1___</code> "
-"would match NG1 1AA but not NG10 1AA"
+#: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
+msgid "Separate codes with a comma. Accepts wildcards, e.g. <code>P*</code> will match a postcode of PE30. Also accepts a pattern, e.g. <code>NG1___</code> would match NG1 1AA but not NG10 1AA"
 msgstr "Mã số riêng biệt với một dấu phẩy. Chấp nhận các kí hiệu, ví dụ <code> * P </ code> sẽ phù hợp với một mã bưu điện trong PE30. Cũng chấp nhận một mô hình, ví dụ <code> NG1 ___ </ code> sẽ phù hợp NG1 1AA nhưng không NG10 1AA"
 
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:24
-#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:75
+#: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:24 includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:75
 msgid "Local Pickup"
 msgstr "Mua hàng trực tiếp"
 
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:25
-msgid ""
-"Local pickup is a simple method which allows customers to pick up orders "
-"themselves."
+msgid "Local pickup is a simple method which allows customers to pick up orders themselves."
 msgstr "Lấy hàng tại nơi là phương thức đơn giản nhất cho phép khách hàng chủ động lấy món hàng mà họ đã đặt."
 
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:68
@@ -8076,43 +7570,32 @@ msgstr "Đã cập nhật chi phí giao nhận"
 msgid "Invalid order. If you have an account please log in and try again."
 msgstr "Đơn hàng không hợp lệ. Nếu bạn có tài khoảin, hãy đăng nhập và thử lại"
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:91
-#: includes/shortcodes/class-wc-shortcode-my-account.php:111
-#: templates/checkout/thankyou.php:30
+#: includes/shortcodes/class-wc-shortcode-checkout.php:91 includes/shortcodes/class-wc-shortcode-my-account.php:111 templates/checkout/thankyou.php:30
 msgid "My Account"
 msgstr "Tài khoản"
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:110
-#: includes/shortcodes/class-wc-shortcode-checkout.php:158
-msgid ""
-"This order&rsquo;s status is &ldquo;%s&rdquo;&mdash;it cannot be paid for. "
-"Please contact us if you need assistance."
+#: includes/shortcodes/class-wc-shortcode-checkout.php:110 includes/shortcodes/class-wc-shortcode-checkout.php:158
+msgid "This order&rsquo;s status is &ldquo;%s&rdquo;&mdash;it cannot be paid for. Please contact us if you need assistance."
 msgstr "Tình trạng của đơn hàng này là &ldquo;%s&rdquo;&mdash; nó không thể thanh toán được. Vui lòng liên hệ chúng tôi nếu bạn cần hỗ trợ."
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:114
-#: includes/shortcodes/class-wc-shortcode-checkout.php:162
+#: includes/shortcodes/class-wc-shortcode-checkout.php:114 includes/shortcodes/class-wc-shortcode-checkout.php:162
 msgid "Sorry, this order is invalid and cannot be paid for."
 msgstr "Xin lỗi, đơn hàng này không hợp lệ và không thể thực hiện thanh toán."
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:131
-#: templates/checkout/thankyou.php:40
+#: includes/shortcodes/class-wc-shortcode-checkout.php:131 templates/checkout/thankyou.php:40
 msgid "Order Number:"
 msgstr "Thứ tự đơn hàng:"
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:135
-#: templates/checkout/thankyou.php:44
+#: includes/shortcodes/class-wc-shortcode-checkout.php:135 templates/checkout/thankyou.php:44
 msgid "Date:"
 msgstr "Ngày:"
 
-#: includes/shortcodes/class-wc-shortcode-checkout.php:139
-#: templates/checkout/thankyou.php:48
+#: includes/shortcodes/class-wc-shortcode-checkout.php:139 templates/checkout/thankyou.php:48
 msgid "Total:"
 msgstr "Tổng cộng:"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:230
-msgid ""
-"The order totals have been updated. Please confirm your order by pressing "
-"the Place Order button at the bottom of the page."
+msgid "The order totals have been updated. Please confirm your order by pressing the Place Order button at the bottom of the page."
 msgstr "Tổng số đơn đặt hàng đã được cập nhật. Vui lòng xác nhận đặt hàng của bạn bằng cách nhấn vào nút \"Place Order\" ở dưới cùng của trang."
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:206
@@ -8127,8 +7610,7 @@ msgstr "Đăng nhập"
 msgid "Enter a username or e-mail address."
 msgstr "Nhập tên đăng nhập hoặc địa chỉ email."
 
-#: includes/shortcodes/class-wc-shortcode-my-account.php:243
-#: includes/shortcodes/class-wc-shortcode-my-account.php:248
+#: includes/shortcodes/class-wc-shortcode-my-account.php:243 includes/shortcodes/class-wc-shortcode-my-account.php:248
 msgid "Invalid username or e-mail."
 msgstr "Tên đăng nhập hoặc email không hợp lệ."
 
@@ -8140,9 +7622,7 @@ msgstr "Không thể đổi mới mật khẩu với người dùng này."
 msgid "Check your e-mail for the confirmation link."
 msgstr "Kiểm tra email và ấn vào liên kết kích hoạt."
 
-#: includes/shortcodes/class-wc-shortcode-my-account.php:310
-#: includes/shortcodes/class-wc-shortcode-my-account.php:315
-#: includes/shortcodes/class-wc-shortcode-my-account.php:331
+#: includes/shortcodes/class-wc-shortcode-my-account.php:310 includes/shortcodes/class-wc-shortcode-my-account.php:315 includes/shortcodes/class-wc-shortcode-my-account.php:331
 msgid "Invalid key"
 msgstr "Khóa không hợp lệ"
 
@@ -8411,20 +7891,14 @@ msgid "Product % Discount"
 msgstr "Giảm % trên sản phẩm"
 
 #: includes/wc-deprecated-functions.php:709
-msgid ""
-"The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use"
-" the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
+msgid "The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr "Nguyên tắc phân loại shop_order-status không còn ở WooCommerce 2.2! Thay vào đó, bạn nên dùng WooCommerce post_status, <a href=\"%s\">đọc thêm...</a>"
 
 #: includes/wc-deprecated-functions.php:713
-msgid ""
-"The \"publish\" order status is no more in WooCommerce 2.2! You should use "
-"the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
+msgid "The \"publish\" order status is no more in WooCommerce 2.2! You should use the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr "Tình trạng đơn hàng công khai sẽ không còn ở WooCommerce 2.2! Thay vào đó, bạn nên dùng WooCommerce post_status, <a href=\"%s\">đọc thêm...</a>"
 
-#: includes/wc-notice-functions.php:27 includes/wc-notice-functions.php:59
-#: includes/wc-notice-functions.php:77 includes/wc-notice-functions.php:100
-#: includes/wc-notice-functions.php:113 includes/wc-notice-functions.php:159
+#: includes/wc-notice-functions.php:27 includes/wc-notice-functions.php:59 includes/wc-notice-functions.php:77 includes/wc-notice-functions.php:100 includes/wc-notice-functions.php:113 includes/wc-notice-functions.php:159
 msgid "This function should not be called before woocommerce_init."
 msgstr "Chức năng này không nên được gọi trước khi woocommerce_init."
 
@@ -8465,9 +7939,7 @@ msgid "New products tagged %s"
 msgstr "Sản phẩm mới đã được đặt từ khóa %s"
 
 #: includes/wc-template-functions.php:372
-msgid ""
-"This is a demo store for testing purposes &mdash; no orders shall be "
-"fulfilled."
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
 msgstr "Đây là cửa hàng demo nhằm mục đích thử nghiệm nên các đơn hàng sẽ không có hiệu lực."
 
 #: includes/wc-template-functions.php:391
@@ -8502,9 +7974,7 @@ msgstr "Theo giá: thấp đến cao"
 msgid "Sort by price: high to low"
 msgstr "Theo giá: cao xuống thấp"
 
-#: includes/wc-template-functions.php:943
-#: templates/checkout/form-shipping.php:58
-#: templates/single-product/tabs/additional-information.php:16
+#: includes/wc-template-functions.php:943 templates/checkout/form-shipping.php:58 templates/single-product/tabs/additional-information.php:16
 msgid "Additional Information"
 msgstr "Thông tin thêm"
 
@@ -8513,9 +7983,7 @@ msgid "Reviews (%d)"
 msgstr "Đánh giá (%d)"
 
 #: includes/wc-template-functions.php:1036
-msgid ""
-"Use $args argument as an array instead. Deprecated argument will be removed "
-"in WC 2.2."
+msgid "Use $args argument as an array instead. Deprecated argument will be removed in WC 2.2."
 msgstr "Dùng tham số $args như một mảng để thay thế. Đối số sẽ bị loại bỏ khỏi WC 2.2."
 
 #: includes/wc-template-functions.php:1132
@@ -8526,8 +7994,7 @@ msgstr "Thanh toán"
 msgid "Place order"
 msgstr "Đặt hàng"
 
-#: includes/wc-template-functions.php:1622
-#: templates/cart/shipping-calculator.php:30
+#: includes/wc-template-functions.php:1622 templates/cart/shipping-calculator.php:30
 msgid "Select a country&hellip;"
 msgstr "Chọn quốc gia&hellip;"
 
@@ -8535,8 +8002,7 @@ msgstr "Chọn quốc gia&hellip;"
 msgid "Update country"
 msgstr "Cập nhật quốc gia"
 
-#: includes/wc-template-functions.php:1670
-#: templates/cart/shipping-calculator.php:54
+#: includes/wc-template-functions.php:1670 templates/cart/shipping-calculator.php:54
 msgid "Select a state&hellip;"
 msgstr "Select a tiểu bang&hellip;"
 
@@ -8549,8 +8015,7 @@ msgid "Uncategorized"
 msgstr "Chưa phân loại"
 
 #: includes/wc-user-functions.php:52
-msgid ""
-"An account is already registered with your email address. Please login."
+msgid "An account is already registered with your email address. Please login."
 msgstr "Đã có tài khoản đăng ký với địa chỉ email này. Vui lòng đăng nhập."
 
 #: includes/wc-user-functions.php:61
@@ -8558,8 +8023,7 @@ msgid "Please enter a valid account username."
 msgstr "Vui lòng nhập tên tài khoản hợp lệ."
 
 #: includes/wc-user-functions.php:65
-msgid ""
-"An account is already registered with that username. Please choose another."
+msgid "An account is already registered with that username. Please choose another."
 msgstr "Đã có tài khoản đăng ký với tên đăng nhập này. Vui lòng chọn tên khác."
 
 #: includes/wc-user-functions.php:86
@@ -8571,9 +8035,7 @@ msgid "ERROR"
 msgstr "LỖI"
 
 #: includes/wc-user-functions.php:112
-msgid ""
-"Couldn&#8217;t register you&hellip; please contact us if you continue to "
-"have problems."
+msgid "Couldn&#8217;t register you&hellip; please contact us if you continue to have problems."
 msgstr "Không thể đăng ký cho bạn, vui lòng liện hệ với chúng tôi nếu tiếp tục có lỗi xảy ra."
 
 #: includes/wc-webhook-functions.php:23
@@ -8616,9 +8078,7 @@ msgstr "Các bộ lọc chỉ dẫn sản phẩm theo lớp của WooCommerce"
 msgid "Active Filters"
 msgstr "Kích hoạt bộ lọc"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:81
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:88
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:93
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:81 includes/widgets/class-wc-widget-layered-nav-filters.php:88 includes/widgets/class-wc-widget-layered-nav-filters.php:93
 msgid "Remove filter"
 msgstr "Xóa bộ lọc"
 
@@ -8631,9 +8091,7 @@ msgid "Max"
 msgstr "Tối đa"
 
 #: includes/widgets/class-wc-widget-layered-nav.php:23
-msgid ""
-"Shows a custom attribute in a widget which lets you narrow down the list of "
-"products when viewing product categories."
+msgid "Shows a custom attribute in a widget which lets you narrow down the list of products when viewing product categories."
 msgstr "Hiển thị thuộc tính tùy chỉnh trên widget cho phép bạn thu hẹp phạm vi các sản phẩm khi xem sản phẩm trong danh mục."
 
 #: includes/widgets/class-wc-widget-layered-nav.php:25
@@ -8677,9 +8135,7 @@ msgid "Any %s"
 msgstr "Bất kỳ %s"
 
 #: includes/widgets/class-wc-widget-price-filter.php:25
-msgid ""
-"Shows a price filter slider in a widget which lets you narrow down the list "
-"of shown products when viewing product categories."
+msgid "Shows a price filter slider in a widget which lets you narrow down the list of shown products when viewing product categories."
 msgstr "Hiển thị bộ lọc giá sản phẩm trên widget cho phép bạn thu hẹp hiển th5i sản phẩm khi xem sản phẩm trong danh mục."
 
 #: includes/widgets/class-wc-widget-price-filter.php:27
@@ -8714,8 +8170,7 @@ msgstr "Danh sách hoặc danh sách xổ xuống của danh mục sản phẩm.
 msgid "WooCommerce Product Categories"
 msgstr "Danh mục sản phẩm"
 
-#: includes/widgets/class-wc-widget-product-categories.php:49
-#: includes/widgets/class-wc-widget-products.php:53
+#: includes/widgets/class-wc-widget-product-categories.php:49 includes/widgets/class-wc-widget-products.php:53
 msgid "Order by"
 msgstr "Sắp xếp theo"
 
@@ -8767,9 +8222,7 @@ msgstr "Hiển thị danh sách sản phẩm của bạn trên t."
 msgid "WooCommerce Products"
 msgstr "Sản phẩm WooCommerce"
 
-#: includes/widgets/class-wc-widget-products.php:38
-#: includes/widgets/class-wc-widget-recently-viewed.php:38
-#: includes/widgets/class-wc-widget-top-rated-products.php:40
+#: includes/widgets/class-wc-widget-products.php:38 includes/widgets/class-wc-widget-recently-viewed.php:38 includes/widgets/class-wc-widget-top-rated-products.php:40
 msgid "Number of products to show"
 msgstr "Số sản phẩm hiển thị"
 
@@ -8789,17 +8242,11 @@ msgstr "Sản phẩm nổi bật"
 msgid "On-sale Products"
 msgstr "Sản phẩm giảm giá"
 
-#: includes/widgets/class-wc-widget-products.php:55
-#: templates/myaccount/my-orders.php:33 templates/myaccount/my-orders.php:52
+#: includes/widgets/class-wc-widget-products.php:55 templates/myaccount/my-orders.php:33 templates/myaccount/my-orders.php:52
 msgid "Date"
 msgstr "Ngày"
 
-#: includes/widgets/class-wc-widget-products.php:56 templates/cart/cart.php:28
-#: templates/emails/admin-cancelled-order.php:24
-#: templates/emails/admin-new-order.php:29
-#: templates/emails/customer-completed-order.php:29
-#: templates/emails/customer-invoice.php:33
-#: templates/emails/customer-note.php:33
+#: includes/widgets/class-wc-widget-products.php:56 templates/cart/cart.php:28 templates/emails/admin-cancelled-order.php:24 templates/emails/admin-new-order.php:29 templates/emails/customer-completed-order.php:29 templates/emails/customer-invoice.php:33 templates/emails/customer-note.php:33
 #: templates/emails/customer-processing-order.php:29
 msgid "Price"
 msgstr "Giá"
@@ -8889,9 +8336,7 @@ msgid "Please use the shipping calculator to see available shipping methods."
 msgstr "Vui lòng sử dụng tính toán giao nhận để xem các phương thức giao nhận được chấp nhận."
 
 #: templates/cart/cart-shipping.php:63
-msgid ""
-"Please continue to the checkout and enter your full address to see if there "
-"are any available shipping methods."
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
 msgstr "Vui lòng tiếp tục kiểm tra và nhập địa chỉ của bạn để xem nếu có phương thức giao nhận phù hợp."
 
 #: templates/cart/cart-shipping.php:67
@@ -8899,9 +8344,7 @@ msgid "Please fill in your details to see available shipping methods."
 msgstr "Vui lòng điền thông tin của bạn để xem các phương thức giao nhận hiện có."
 
 #: templates/cart/cart-shipping.php:76 templates/cart/cart-shipping.php:82
-msgid ""
-"There are no shipping methods available. Please double check your address, "
-"or contact us if you need any help."
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
 msgstr "Không có phương thức vận chuyển nào phù hợp. Vui lòng kiểm tra lại địa chỉ của bạn hoặc liên hệ với chúng tôi nếu bạn cần trợ giúp."
 
 #: templates/cart/cart-shipping.php:97
@@ -8925,23 +8368,14 @@ msgid " (taxes estimated for %s)"
 msgstr "(thuế dự k %s)"
 
 #: templates/cart/cart-totals.php:86
-msgid ""
-"Note: Shipping and taxes are estimated%s and will be updated during checkout"
-" based on your billing and shipping information."
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
 msgstr "Chú ý: Giao nhận và cước phí được dự trù là %s và sẽ được cập nhật khi thanh toán dựa trên hóa đơn và thông tin giao nhận mà bạn cung cấp."
 
-#: templates/cart/cart.php:29 templates/emails/admin-cancelled-order.php:23
-#: templates/emails/admin-new-order.php:28
-#: templates/emails/customer-completed-order.php:28
-#: templates/emails/customer-invoice.php:32
-#: templates/emails/customer-note.php:32
-#: templates/emails/customer-processing-order.php:28
+#: templates/cart/cart.php:29 templates/emails/admin-cancelled-order.php:23 templates/emails/admin-new-order.php:28 templates/emails/customer-completed-order.php:28 templates/emails/customer-invoice.php:32 templates/emails/customer-note.php:32 templates/emails/customer-processing-order.php:28
 msgid "Quantity"
 msgstr "Số lượng"
 
-#: templates/cart/cart.php:30 templates/checkout/review-order.php:18
-#: templates/myaccount/my-orders.php:35 templates/myaccount/my-orders.php:58
-#: templates/order/order-details.php:22
+#: templates/cart/cart.php:30 templates/checkout/review-order.php:18 templates/myaccount/my-orders.php:35 templates/myaccount/my-orders.php:58 templates/order/order-details.php:22
 msgid "Total"
 msgstr "Tổng"
 
@@ -8981,9 +8415,7 @@ msgstr "Thanh toán"
 msgid "Calculate Shipping"
 msgstr "Tính phí giao nhận"
 
-#: templates/cart/shipping-calculator.php:47
-#: templates/cart/shipping-calculator.php:53
-#: templates/cart/shipping-calculator.php:65
+#: templates/cart/shipping-calculator.php:47 templates/cart/shipping-calculator.php:53 templates/cart/shipping-calculator.php:65
 msgid "State / county"
 msgstr "Bang / Hạt"
 
@@ -8996,9 +8428,7 @@ msgid "Update Totals"
 msgstr "Cập nhật tổng"
 
 #: templates/checkout/cart-errors.php:18
-msgid ""
-"There are some issues with the items in your cart (shown above). Please go "
-"back to the cart page and resolve these issues before checking out."
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
 msgstr "Có một số vấn đề với các mặt hàng trong giỏ của bạn (hình trên). Xin vui lòng trở lại trang giỏ hàng và giải quyết những vấn đề này trước khi thanh toán."
 
 #: templates/checkout/cart-errors.php:22
@@ -9018,9 +8448,7 @@ msgid "Create an account?"
 msgstr "Tạo tài khoản mới?"
 
 #: templates/checkout/form-billing.php:53
-msgid ""
-"Create an account by entering the information below. If you are a returning "
-"customer please login at the top of the page."
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
 msgstr "Tạo tài khoản mới bằng cách điền vào thông tin theo mẫu bên dưới. Nếu bạn đã có tài khoản, vui lòng đăng nhập."
 
 #: templates/checkout/form-checkout.php:20
@@ -9048,10 +8476,7 @@ msgid "Click here to login"
 msgstr "Ấn vào đây để đăng nhập"
 
 #: templates/checkout/form-login.php:26
-msgid ""
-"If you have shopped with us before, please enter your details in the boxes "
-"below. If you are a new customer please proceed to the Billing &amp; "
-"Shipping section."
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
 msgstr "Nếu bạn đã có tài khoản, vui lòng ghi đầy đủ thông tin đăng nhập. Nếu bạn chưa có tài khoản vui lòng làm theo các bước bên dưới"
 
 #: templates/checkout/form-pay.php:21
@@ -9067,10 +8492,7 @@ msgid "Payment"
 msgstr "Thanh Toán"
 
 #: templates/checkout/form-pay.php:80
-msgid ""
-"Sorry, it seems that there are no available payment methods for your "
-"location. Please contact us if you require assistance or wish to make "
-"alternate arrangements."
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
 msgstr "Xin lỗi, hiện chúng tôi không hỗ trợ phương thức thanh toán này. Vui lòng liên hệ với chúng tôi để biết thông tin và phương thức thanh toán"
 
 #: templates/checkout/form-pay.php:90
@@ -9086,18 +8508,11 @@ msgid "Please fill in your details above to see available payment methods."
 msgstr "Vui lòng điền thông tin của bạn trước khi chọn hình thức thanh toán."
 
 #: templates/checkout/payment.php:32
-msgid ""
-"Sorry, it seems that there are no available payment methods for your state. "
-"Please contact us if you require assistance or wish to make alternate "
-"arrangements."
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
 msgstr "Xin lỗi, hiện chúng tôi không hỗ trợ phương thức thanh toán này. Vui lòng liên hệ với chúng tôi để biết thông tin và phương thức thanh toán."
 
 #: templates/checkout/payment.php:43
-msgid ""
-"Since your browser does not support JavaScript, or it is disabled, please "
-"ensure you click the <em>Update Totals</em> button before placing your "
-"order. You may be charged more than the amount stated above if you fail to "
-"do so."
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
 msgstr "Trình duyệt của bạn không hỗ trợ JavaScript, hoặc nó bị vô hiệu hóa, hãy đảm bảo bạn nhấp vào <em> Cập nhật giỏ hàng </ em> trước khi bạn thanh toán. Bạn có thể phải trả nhiều hơn số tiền đã nói ở trên, nếu bạn không làm như vậy."
 
 #: templates/checkout/payment.php:43
@@ -9105,15 +8520,11 @@ msgid "Update totals"
 msgstr "Cập nhật tổng"
 
 #: templates/checkout/payment.php:53
-msgid ""
-"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
-"conditions</a>"
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
 msgstr "Xin vui lòng đọc và chấp nhận <a href=\"%s\" target=\"_blank\">điều khoản &amp; điều kiện mua hàng</a>"
 
 #: templates/checkout/thankyou.php:18
-msgid ""
-"Unfortunately your order cannot be processed as the originating "
-"bank/merchant has declined your transaction."
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
 msgstr "Thành thật xin lỗi, đơn hàng của bạn không thể xử lý vì ngân hàng từ chối giao dịch này."
 
 #: templates/checkout/thankyou.php:22
@@ -9132,8 +8543,7 @@ msgstr "Thanh toán"
 msgid "Thank you. Your order has been received."
 msgstr "Cảm ơn bạn. Đơn hàng của bạn đã được nhận."
 
-#: templates/emails/admin-cancelled-order.php:13
-#: templates/emails/plain/admin-cancelled-order.php:15
+#: templates/emails/admin-cancelled-order.php:13 templates/emails/plain/admin-cancelled-order.php:15
 msgid "The order #%d from %s has been cancelled. The order was as follows:"
 msgstr "Đơn hàng #%s từ %s đã được hủy bỏ. Đơn hàng như sau:"
 
@@ -9145,76 +8555,55 @@ msgstr "Đơn hàng: %s"
 msgid "You have received an order from %s. The order is as follows:"
 msgstr "Bạn vừa nhận được đơn hàng từ %s. Đơn hàng như sau:"
 
-#: templates/emails/customer-completed-order.php:18
-#: templates/emails/plain/customer-completed-order.php:16
-msgid ""
-"Hi there. Your recent order on %s has been completed. Your order details are"
-" shown below for your reference:"
+#: templates/emails/customer-completed-order.php:18 templates/emails/plain/customer-completed-order.php:16
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
 msgstr "Chào bạn. Đơn hàng của bạn ngày %s đã hoàn thành. Chi tiết đặt hàng của bạn được hiển thị dưới đây để bạn tham khảo:"
 
-#: templates/emails/customer-invoice.php:20
-#: templates/emails/plain/customer-invoice.php:17
-msgid ""
-"An order has been created for you on %s. To pay for this order please use "
-"the following link: %s"
+#: templates/emails/customer-invoice.php:20 templates/emails/plain/customer-invoice.php:17
+msgid "An order has been created for you on %s. To pay for this order please use the following link: %s"
 msgstr "Một đơn đặt hàng đã được tạo ra cho bạn lúc %s. Để thanh toán đơn hàng này xin vui lòng sử dụng liên kết sau đây: %s"
 
 #: templates/emails/customer-invoice.php:20
 msgid "pay"
 msgstr "thanh toán"
 
-#: templates/emails/customer-new-account.php:18
-#: templates/emails/plain/customer-new-account.php:16
-msgid ""
-"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+#: templates/emails/customer-new-account.php:18 templates/emails/plain/customer-new-account.php:16
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
 msgstr "Cảm ơn bạn đã đăng ký tài khoản tại %s. Tên đăng nhập của bạn là <strong>%s</strong>."
 
 #: templates/emails/customer-new-account.php:22
 msgid "Your password has been automatically generated: <strong>%s</strong>"
 msgstr "Mật khẩu của bạn được tự động tạo: <strong>%s</strong>"
 
-#: templates/emails/customer-new-account.php:26
-#: templates/emails/plain/customer-new-account.php:21
-msgid ""
-"You can access your account area to view your orders and change your "
-"password here: %s."
+#: templates/emails/customer-new-account.php:26 templates/emails/plain/customer-new-account.php:21
+msgid "You can access your account area to view your orders and change your password here: %s."
 msgstr "Bạn có thể truy cập trang tài khoản để xem các đơn hàng và thay đổi mật khẩu tại đây: %s."
 
-#: templates/emails/customer-note.php:18
-#: templates/emails/plain/customer-note.php:16
+#: templates/emails/customer-note.php:18 templates/emails/plain/customer-note.php:16
 msgid "Hello, a note has just been added to your order:"
 msgstr "Xin chào, một lời nhắn đã được thêm vào đơn hàng của bạn:"
 
-#: templates/emails/customer-note.php:22
-#: templates/emails/plain/customer-note.php:24
+#: templates/emails/customer-note.php:22 templates/emails/plain/customer-note.php:24
 msgid "For your reference, your order details are shown below."
 msgstr "Để bạn tham khảo, các chi tiết đặt hàng của bạn được hiển thị bên dưới."
 
-#: templates/emails/customer-processing-order.php:18
-#: templates/emails/plain/customer-processing-order.php:16
-msgid ""
-"Your order has been received and is now being processed. Your order details "
-"are shown below for your reference:"
+#: templates/emails/customer-processing-order.php:18 templates/emails/plain/customer-processing-order.php:16
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
 msgstr "Đơn hàng của bạn đã được nhận và hiện đang được xử lý. Chi tiết đặt hàng của bạn được hiển thị dưới đây để bạn tham khảo:"
 
-#: templates/emails/customer-reset-password.php:18
-#: templates/emails/plain/customer-reset-password.php:16
-msgid ""
-"Someone requested that the password be reset for the following account:"
+#: templates/emails/customer-reset-password.php:18 templates/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
 msgstr "Một người nào đó đã yêu cầu khôi phục lại mật khẩu của tài khoản :"
 
-#: templates/emails/customer-reset-password.php:19
-#: templates/emails/plain/customer-reset-password.php:18
+#: templates/emails/customer-reset-password.php:19 templates/emails/plain/customer-reset-password.php:18
 msgid "Username: %s"
 msgstr "Tên đăng nhập: %s"
 
-#: templates/emails/customer-reset-password.php:20
-#: templates/emails/plain/customer-reset-password.php:19
+#: templates/emails/customer-reset-password.php:20 templates/emails/plain/customer-reset-password.php:19
 msgid "If this was a mistake, just ignore this email and nothing will happen."
 msgstr "Nếu đây là một thông tin sai, vui lòng bỏ qua email này và sẽ không có chuyện gì sảy ra"
 
-#: templates/emails/customer-reset-password.php:21
-#: templates/emails/plain/customer-reset-password.php:20
+#: templates/emails/customer-reset-password.php:21 templates/emails/plain/customer-reset-password.php:20
 msgid "To reset your password, visit the following address:"
 msgstr "Để đặt lại mật khẩu, bạn vui lòng truy cập theo địa chỉ sau:"
 
@@ -9222,13 +8611,11 @@ msgstr "Để đặt lại mật khẩu, bạn vui lòng truy cập theo địa 
 msgid "Click here to reset your password"
 msgstr "Ấn vào đây để đặt lại mật khẩu"
 
-#: templates/emails/email-addresses.php:20
-#: templates/emails/plain/email-addresses.php:14
+#: templates/emails/email-addresses.php:20 templates/emails/plain/email-addresses.php:14
 msgid "Billing address"
 msgstr "Địa chỉ thanh toán"
 
-#: templates/emails/email-addresses.php:30
-#: templates/emails/plain/email-addresses.php:18
+#: templates/emails/email-addresses.php:30 templates/emails/plain/email-addresses.php:18
 msgid "Shipping address"
 msgstr "Địa chỉ giao hàng"
 
@@ -9236,36 +8623,23 @@ msgstr "Địa chỉ giao hàng"
 msgid "Product Image"
 msgstr "Ảnh sản phẩm"
 
-#: templates/emails/email-order-items.php:54
-#: templates/emails/plain/email-order-items.php:49
+#: templates/emails/email-order-items.php:54 templates/emails/plain/email-order-items.php:49
 msgid "Download %d"
 msgstr "Tải về %d"
 
-#: templates/emails/email-order-items.php:56
-#: templates/emails/plain/email-order-items.php:51
+#: templates/emails/email-order-items.php:56 templates/emails/plain/email-order-items.php:51
 msgid "Download"
 msgstr "Tải về"
 
-#: templates/emails/plain/admin-cancelled-order.php:21
-#: templates/emails/plain/admin-new-order.php:22
-#: templates/emails/plain/customer-completed-order.php:22
-#: templates/emails/plain/customer-invoice.php:23
-#: templates/emails/plain/customer-note.php:30
-#: templates/emails/plain/customer-processing-order.php:22
+#: templates/emails/plain/admin-cancelled-order.php:21 templates/emails/plain/admin-new-order.php:22 templates/emails/plain/customer-completed-order.php:22 templates/emails/plain/customer-invoice.php:23 templates/emails/plain/customer-note.php:30 templates/emails/plain/customer-processing-order.php:22
 msgid "Order number: %s"
 msgstr "Đơn hàng số: %s"
 
-#: templates/emails/plain/admin-cancelled-order.php:22
-#: templates/emails/plain/admin-new-order.php:23
-#: templates/emails/plain/customer-completed-order.php:23
-#: templates/emails/plain/customer-invoice.php:24
-#: templates/emails/plain/customer-note.php:31
-#: templates/emails/plain/customer-processing-order.php:23
+#: templates/emails/plain/admin-cancelled-order.php:22 templates/emails/plain/admin-new-order.php:23 templates/emails/plain/customer-completed-order.php:23 templates/emails/plain/customer-invoice.php:24 templates/emails/plain/customer-note.php:31 templates/emails/plain/customer-processing-order.php:23
 msgid "jS F Y"
 msgstr "jS F Y"
 
-#: templates/emails/plain/admin-cancelled-order.php:36
-#: templates/emails/plain/admin-new-order.php:37
+#: templates/emails/plain/admin-cancelled-order.php:36 templates/emails/plain/admin-new-order.php:37
 msgid "View order: %s"
 msgstr "Xem đơn hàng: %s"
 
@@ -9285,13 +8659,11 @@ msgstr "Số lượng: %s"
 msgid "Cost: %s"
 msgstr "Giá: %s"
 
-#: templates/global/form-login.php:26
-#: templates/myaccount/form-lost-password.php:24
+#: templates/global/form-login.php:26 templates/myaccount/form-lost-password.php:24
 msgid "Username or email"
 msgstr "Tên đăng nhập hoặc email"
 
-#: templates/global/form-login.php:30 templates/myaccount/form-login.php:39
-#: templates/myaccount/form-login.php:89
+#: templates/global/form-login.php:30 templates/myaccount/form-login.php:39 templates/myaccount/form-login.php:89
 msgid "Password"
 msgstr "Mật khẩu"
 
@@ -9317,13 +8689,10 @@ msgstr "Hiển thị tất cả %d kết quả"
 
 #: templates/loop/sale-flash.php:19 templates/single-product/sale-flash.php:19
 msgid "Sale!"
-msgstr "Giá sốc!"
+msgstr "Sale!"
 
 #: templates/myaccount/form-add-payment-method.php:41
-msgid ""
-"Sorry, it seems that there are no payment methods which support adding a new"
-" payment method. Please contact us if you require assistance or wish to make"
-" alternate arrangements."
+msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
 msgstr "Xin lỗi, chúng tôi không hỗ trợ hình thức thanh toán online, vui lòng liên hệ với chúng tôi để biết thông tin chi tiết về hình thức thanh toán"
 
 #: templates/myaccount/form-edit-account.php:23
@@ -9334,8 +8703,7 @@ msgstr "Họ"
 msgid "Last name"
 msgstr "Tên"
 
-#: templates/myaccount/form-edit-account.php:33
-#: templates/myaccount/form-login.php:82
+#: templates/myaccount/form-edit-account.php:33 templates/myaccount/form-login.php:82
 msgid "Email address"
 msgstr "Địa chỉ email"
 
@@ -9359,14 +8727,11 @@ msgstr "Xác nhận mật khẩu mới"
 msgid "Save changes"
 msgstr "Lưu thay đổi"
 
-#: templates/myaccount/form-edit-address.php:16
-#: templates/myaccount/my-address.php:19 templates/myaccount/my-address.php:25
-#: templates/order/order-details.php:193
+#: templates/myaccount/form-edit-address.php:16 templates/myaccount/my-address.php:19 templates/myaccount/my-address.php:25 templates/order/order-details.php:193
 msgid "Billing Address"
 msgstr "Địa chỉ thanh toán"
 
-#: templates/myaccount/form-edit-address.php:16
-#: templates/myaccount/my-address.php:20 templates/order/order-details.php:212
+#: templates/myaccount/form-edit-address.php:16 templates/myaccount/my-address.php:20 templates/order/order-details.php:212
 msgid "Shipping Address"
 msgstr "Địa chỉ nhận hàng"
 
@@ -9378,8 +8743,7 @@ msgstr "Lưu địa chỉ"
 msgid "Username or email address"
 msgstr "Tên tài khoản hoặc địa chỉ email"
 
-#: templates/myaccount/form-login.php:66
-#: templates/myaccount/form-login.php:103
+#: templates/myaccount/form-login.php:66 templates/myaccount/form-login.php:103
 msgid "Register"
 msgstr "Đăng ký"
 
@@ -9392,9 +8756,7 @@ msgid "Anti-spam"
 msgstr "Chống Spam"
 
 #: templates/myaccount/form-lost-password.php:22
-msgid ""
-"Lost your password? Please enter your username or email address. You will "
-"receive a link to create a new password via email."
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
 msgstr "Quên mật khẩu? Vui lòng nhập tên đăng nhập hoặc địa chỉ email. Bạn sẽ nhận được một liên kết tạo mật khẩu mới qua email."
 
 #: templates/myaccount/form-lost-password.php:28
@@ -9422,10 +8784,7 @@ msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
 msgstr "Xin chào <strong>%1$s</strong> (không phải %1$s? <a href=\"%2$s\">Đăng xuất</a>)."
 
 #: templates/myaccount/my-account.php:24
-msgid ""
-"From your account dashboard you can view your recent orders, manage your "
-"shipping and billing addresses and <a href=\"%s\">edit your password and "
-"account details</a>."
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
 msgstr "Từ trang quản lý tài khoản, bạn có thể xem các đơn đặt hàng gần nhất, quản lý địa chỉ thanh toán, nhận hàng và <a href=\"%s\">thay đổi thông tin tài khoản cùng mật khẩu</a>."
 
 #: templates/myaccount/my-address.php:17
@@ -9479,10 +8838,7 @@ msgid "View"
 msgstr "Xem"
 
 #: templates/myaccount/view-order.php:20
-msgid ""
-"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class"
-"=\"order-date\">%s</mark> and is currently <mark class=\"order-"
-"status\">%s</mark>."
+msgid "Order #<mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
 msgstr "Đơn hàng #<mark class=\"order-number\">%s</mark> được đặt trên <mark class=\"order-date\">%s</mark> và hiện đang là <mark class=\"order-status\">%s</mark>."
 
 #: templates/myaccount/view-order.php:24 templates/order/tracking.php:25
@@ -9494,10 +8850,7 @@ msgid "l jS \\o\\f F Y, h:ia"
 msgstr "l jS \\o\\f F Y, h:ia"
 
 #: templates/order/form-tracking.php:20
-msgid ""
-"To track your order please enter your Order ID in the box below and press "
-"the \"Track\" button. This was given to you on your receipt and in the "
-"confirmation email you should have received."
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
 msgstr "Để theo dõi đơn hàng của bạn xin vui lòng nhập ID đơn hàng của bạn vào ô dưới đây và nhấn nút \"Theo dõi\". Điều này đã được trao cho bạn trên biên lai và xác nhận trong email bạn sẽ nhận được."
 
 #: templates/order/form-tracking.php:22
@@ -9706,8 +9059,7 @@ msgid "Your Review"
 msgstr "Đánh giá của bạn"
 
 #: templates/single-product-reviews.php:95
-msgid ""
-"Only logged in customers who have purchased this product may leave a review."
+msgid "Only logged in customers who have purchased this product may leave a review."
 msgstr "Chỉ những khách hàng đã đăng nhập và mua sản phẩm này mới có thể đưa ra đánh giá."
 
 #. Plugin URI of the plugin/theme
@@ -9906,21 +9258,17 @@ msgctxt "Admin menu name"
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: includes/class-wc-post-types.php:85
-#: includes/updates/woocommerce-update-2.0.php:46
+#: includes/class-wc-post-types.php:85 includes/updates/woocommerce-update-2.0.php:46
 msgctxt "slug"
 msgid "product-category"
 msgstr "danh-muc"
 
-#: includes/class-wc-post-types.php:123
-#: includes/updates/woocommerce-update-2.0.php:47
+#: includes/class-wc-post-types.php:123 includes/updates/woocommerce-update-2.0.php:47
 msgctxt "slug"
 msgid "product-tag"
 msgstr "tu-khoa"
 
-#: includes/class-wc-post-types.php:227
-#: includes/updates/woocommerce-update-2.0.php:55
-#: includes/wc-core-functions.php:606 includes/wc-core-functions.php:641
+#: includes/class-wc-post-types.php:227 includes/updates/woocommerce-update-2.0.php:55 includes/wc-core-functions.php:606 includes/wc-core-functions.php:641
 msgctxt "slug"
 msgid "product"
 msgstr "sản phẩm"
@@ -9975,9 +9323,7 @@ msgctxt "Order status"
 msgid "On Hold"
 msgstr "Đang tạm ngưng"
 
-#: includes/class-wc-product-grouped.php:191
-#: includes/class-wc-product-variable.php:311
-#: includes/class-wc-product-variable.php:316
+#: includes/class-wc-product-grouped.php:191 includes/class-wc-product-variable.php:311 includes/class-wc-product-variable.php:316
 msgctxt "Price range: from-to"
 msgid "%1$s&ndash;%2$s"
 msgstr "%1$s&ndash;%2$s"
@@ -9987,8 +9333,7 @@ msgctxt "hash before order number"
 msgid "#"
 msgstr "#"
 
-#: includes/shipping/flat-rate/includes/settings-flat-rate.php:52
-#: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:93
+#: includes/shipping/flat-rate/includes/settings-flat-rate.php:52 includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:93
 msgctxt "Tax status"
 msgid "None"
 msgstr "Trống"

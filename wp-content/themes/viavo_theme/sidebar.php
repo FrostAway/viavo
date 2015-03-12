@@ -90,5 +90,7 @@
             </ul>
         </div>
     </div>
+    
+    <div class="fb-like-box" data-href="https://www.facebook.com/iziweb.vn" data-width="255" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
 </div>
 <!-- end left column -->

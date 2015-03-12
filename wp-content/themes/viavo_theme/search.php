@@ -21,7 +21,8 @@
                         'thumbnail' => get_the_post_thumbnail(),
                         'title' => get_the_title(),
                         'price' => get_cv_price(),
-                        'link' => get_permalink()
+                        'link' => get_permalink(),
+                        'onsale' => get_sale_out(get_the_ID(), false)
                     );
                     $products[] = $prod;
                 }
@@ -33,13 +34,14 @@
         
         <div id="wrapper">
             <h3 class="search-title">Kết quả tìm kiếm từ khóa '<?= $_GET['s'] ?>'</h3>
-            
+        </div>    
         <?php if (have_posts()) : ?>
         
             <h3 class="box-title">Sản phẩm</h3>
             <div class="products">
                     <?php foreach ($products as $bl) { ?>
                         <div class="item">
+                            <?php echo $bl['onsale'] ?>
                             <div class="it-image">
                                 <a href="<?= $bl['link'] ?>"><?= $bl['thumbnail'] ?></a>
                             </div>
@@ -74,7 +76,7 @@
         <?php else:
             echo 'Không có kết quả nào';
         endif; ?>
-        </div>
+        
     </div>
 </div>
 <?php get_footer(); ?>
